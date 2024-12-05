@@ -4,7 +4,7 @@ Implementacija baze za aplikaciju koja omogućuje upravljanje restoranima, jelov
 
 ## ERD
 
-![ERD](image.png)
+![ERD](https://github.com/user-attachments/assets/11e7385e-4e43-48a1-8100-ef80ede38a5a)
 
 ## Značajke projekta
 
