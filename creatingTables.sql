@@ -68,10 +68,8 @@ BEGIN
         WHERE o.UserID = u.UserID
     ) > 1000;
 
-    -- Get number of rows inserted
+    -- vrati broj dodanih redova
     GET DIAGNOSTICS inserted_count = ROW_COUNT;
-
-    -- Return number of loyalty cards inserted
     RETURN inserted_count;
 END;
 $$ LANGUAGE plpgsql;
