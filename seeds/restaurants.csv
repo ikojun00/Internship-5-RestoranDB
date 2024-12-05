@@ -1,1000 +1,500 @@
-1,Beer Inc,Đakovo,23,10:41,23:31,
-2,McLaughlin-Lueilwitz,Zagreb,21,11:04,23:29,false
-3,Leannon Group,Rijeka,26,9:07,22:10,
-4,Herman-Stanton,Čakovec,22,11:33,21:31,false
-5,"Rath, Prosacco and Medhurst",Velika Gorica,21,9:31,23:37,true
-6,Weimann-Cummings,Koprivnica,23,9:58,21:17,
-7,Swift Inc,Rijeka,16,10:16,21:37,
-8,Williamson Inc,Pula,22,9:14,23:09,
-9,Kihn and Sons,Koprivnica,20,10:40,21:37,false
-10,Leuschke Group,Sisak,27,9:51,23:31,true
-11,Collins and Sons,Bjelovar,24,9:19,22:25,
-12,Legros-Kulas,Koprivnica,16,10:19,21:36,
-13,"VonRueden, Schoen and Swift",Varaždin,20,11:07,22:36,
-14,"Reynolds, Walker and Pacocha",Vinkovci,28,10:02,21:43,
-15,Batz Group,Šibenik,21,10:24,22:31,false
-16,Fritsch-Bayer,Sisak,17,11:15,23:14,
-17,Jacobs and Sons,Zagreb,24,9:54,21:55,
-18,"Greenfelder, Adams and Gerhold",Đakovo,11,10:28,23:54,
-19,Jaskolski Group,Rijeka,23,9:15,22:18,
-20,Sipes and Sons,Velika Gorica,30,9:08,21:44,
-21,Fay-Purdy,Čakovec,12,10:27,21:05,false
-22,Pouros-Rosenbaum,Varaždin,27,11:07,22:13,
-23,Fisher-Abshire,Karlovac,26,9:06,22:18,
-24,Turcotte and Sons,Šibenik,28,11:48,22:26,
-25,"Thiel, Kihn and Langworth",Karlovac,25,10:17,21:03,
-26,"Hand, Bogisich and Witting",Zagreb,23,9:30,21:58,
-27,Schinner Group,Đakovo,13,10:46,21:19,false
-28,Crist-Swaniawski,Karlovac,28,9:27,22:22,
-29,"Littel, Stiedemann and Altenwerth",Šibenik,20,11:20,22:59,
-30,"Dicki, Mraz and Pagac",Sisak,26,11:44,22:59,
-31,Heaney and Sons,Dubrovnik,16,10:53,22:57,false
-32,"Brekke, Nikolaus and Wolff",Šibenik,14,9:12,22:14,
-33,Doyle-Ratke,Sisak,29,10:23,23:12,
-34,Murray-Rogahn,Split,25,9:22,21:43,false
-35,Bashirian-Bode,Koprivnica,11,11:14,22:35,
-36,Flatley Inc,Slavonski Brod,23,9:54,23:18,
-37,"Carter, Koepp and Beer",Dubrovnik,26,9:26,22:41,
-38,Anderson-Lockman,Bjelovar,22,11:05,22:10,
-39,"Nienow, Koelpin and Goyette",Rijeka,27,10:19,21:31,
-40,Kuhn-Heathcote,Đakovo,12,11:51,23:30,
-41,Glover Inc,Karlovac,22,11:07,21:14,false
-42,"Torphy, Kirlin and Schulist",Dubrovnik,10,11:00,22:44,
-43,Erdman-Reinger,Vukovar,21,10:13,21:24,
-44,"Herzog, O'Connell and Sanford",Split,29,9:21,23:18,false
-45,Gleichner-Carter,Karlovac,29,10:03,23:06,
-46,Mraz-Carroll,Osijek,27,9:11,22:48,
-47,Walter LLC,Bjelovar,11,11:41,21:35,
-48,Collier Group,Vinkovci,27,9:39,21:29,
-49,Gerlach-Romaguera,Karlovac,20,11:15,23:35,
-50,"Schoen, Ruecker and Rau",Đakovo,21,10:38,23:55,
-51,"Nikolaus, Friesen and Heaney",Osijek,30,9:12,22:56,
-52,Toy-Durgan,Vukovar,25,9:16,23:08,
-53,Heaney LLC,Šibenik,11,9:27,22:44,
-54,Kertzmann and Sons,Čakovec,29,11:03,22:21,true
-55,"Buckridge, Johnson and Kilback",Velika Gorica,21,9:13,21:44,
-56,"Smith, Murphy and Huels",Velika Gorica,26,10:34,21:05,
-57,Leffler-Carter,Šibenik,11,11:17,22:13,
-58,Goyette Inc,Varaždin,14,9:02,21:48,true
-59,D'Amore-Simonis,Split,26,10:11,23:30,
-60,Rowe-Trantow,Velika Gorica,29,11:47,23:28,
-61,Kertzmann-Nader,Vukovar,24,10:22,22:24,
-62,Orn LLC,Čakovec,21,9:42,21:05,
-63,Ritchie-Fadel,Šibenik,28,11:17,22:22,
-64,Jakubowski Group,Vinkovci,23,11:32,22:58,
-65,Greenfelder Inc,Varaždin,20,9:36,23:52,true
-66,Bosco-Walter,Bjelovar,13,11:09,22:40,
-67,Windler and Sons,Varaždin,20,9:28,21:35,false
-68,"Rath, Ziemann and Kub",Rijeka,27,10:07,21:24,
-69,Robel LLC,Dubrovnik,30,9:51,23:08,
-70,Yundt Inc,Šibenik,20,10:58,22:14,
-71,"Vandervort, Hickle and Kilback",Vinkovci,23,9:40,22:17,true
-72,Cormier-Botsford,Rijeka,24,11:03,22:37,false
-73,Harvey LLC,Pula,24,10:32,23:01,
-74,Bode-Durgan,Đakovo,30,9:49,22:24,
-75,Effertz-Beer,Rijeka,11,9:45,21:12,
-76,Lubowitz-Herzog,Koprivnica,14,9:50,22:09,true
-77,Wilderman and Sons,Koprivnica,29,10:29,23:17,false
-78,VonRueden Group,Sisak,23,10:59,23:53,
-79,"Kub, Hudson and Hoppe",Vinkovci,28,11:09,22:23,
-80,Olson-Graham,Split,18,11:47,21:58,true
-81,Cremin and Sons,Osijek,25,10:30,22:37,
-82,"Lang, Gusikowski and Oberbrunner",Dubrovnik,20,9:23,23:31,
-83,Hermann-Marquardt,Karlovac,26,11:52,21:10,
-84,Runolfsson Inc,Pula,18,11:10,22:58,
-85,Jaskolski-Rolfson,Slavonski Brod,30,11:54,21:49,
-86,Lemke LLC,Šibenik,16,9:28,22:09,true
-87,"Kuvalis, Kuhic and Muller",Zagreb,19,9:52,21:29,
-88,Fritsch Group,Vukovar,18,9:01,23:37,
-89,"Yost, Dare and Heaney",Bjelovar,23,11:37,22:37,
-90,Hudson Group,Čakovec,18,9:37,21:55,
-91,"Wunsch, Hermann and Nienow",Šibenik,20,10:19,23:28,
-92,Stark and Sons,Sisak,22,9:31,21:10,
-93,Waelchi-Quigley,Šibenik,28,11:53,23:52,
-94,"Berge, Wyman and Schuppe",Velika Gorica,25,9:31,23:36,
-95,Mueller-Mills,Velika Gorica,30,11:16,23:16,
-96,Brown-Koepp,Varaždin,28,9:23,23:08,
-97,Kris and Sons,Čakovec,26,9:14,21:26,
-98,Lockman and Sons,Varaždin,25,10:05,21:01,
-99,Brekke Inc,Šibenik,21,10:36,23:32,
-100,"DuBuque, Johnson and Williamson",Rijeka,15,11:15,21:23,
-101,"Muller, Hansen and Johnston",Đakovo,15,10:25,22:24,
-102,"Bradtke, Schiller and MacGyver",Dubrovnik,14,9:53,23:49,true
-103,"Hoppe, Cremin and Beier",Đakovo,12,9:12,23:19,
-104,Sporer Inc,Split,10,10:18,23:40,
-105,"Murray, Johns and Smitham",Pula,14,11:53,21:22,
-106,Hodkiewicz Group,Dubrovnik,13,10:45,23:42,false
-107,Sauer and Sons,Đakovo,30,9:32,21:54,
-108,Deckow LLC,Zagreb,26,9:52,22:40,true
-109,Walker-Glover,Šibenik,23,11:01,23:10,
-110,Bernhard Group,Zagreb,27,9:33,22:14,
-111,Crona and Sons,Pula,27,9:56,22:12,
-112,Haag-Sauer,Split,25,10:21,22:32,
-113,Schiller-Brekke,Šibenik,18,11:46,22:10,
-114,Gibson LLC,Karlovac,21,11:48,21:56,
-115,Pacocha-Kerluke,Zadar,22,9:01,21:43,
-116,Schulist-Pacocha,Osijek,16,9:20,22:05,false
-117,Sipes-Emmerich,Rijeka,28,11:28,22:09,
-118,"Kassulke, Huel and Streich",Rijeka,21,11:22,22:58,
-119,"Hauck, Mohr and Pfannerstill",Koprivnica,26,11:33,23:25,
-120,"Anderson, Hills and Hoeger",Đakovo,16,9:43,21:14,
-121,Kovacek Group,Požega,13,9:36,21:32,
-122,Crooks Inc,Osijek,16,10:00,23:15,true
-123,Hahn-Koch,Split,19,9:58,23:10,
-124,"Bahringer, Sawayn and Becker",Split,27,10:07,23:38,true
-125,Adams LLC,Zadar,29,10:12,22:14,false
-126,Walsh-Hagenes,Zadar,25,11:58,21:56,
-127,Stoltenberg Group,Osijek,19,10:06,22:45,
-128,"Mosciski, Blick and Lubowitz",Bjelovar,26,11:55,23:15,
-129,Monahan-Gutkowski,Bjelovar,15,11:51,21:59,
-130,Hilpert-Lebsack,Vinkovci,11,11:02,23:45,
-131,Kemmer LLC,Slavonski Brod,10,11:27,22:11,false
-132,Goyette LLC,Požega,10,11:02,22:41,
-133,"Harber, Mohr and Marvin",Šibenik,27,9:30,21:25,false
-134,Brakus-Welch,Vukovar,12,9:06,22:04,
-135,"Bins, Mante and Oberbrunner",Požega,11,9:48,21:57,false
-136,Bergstrom-Abbott,Šibenik,13,10:21,22:20,
-137,"Wisoky, Hand and Ratke",Slavonski Brod,29,9:56,22:54,
-138,O'Hara Group,Zagreb,16,10:46,22:42,
-139,Senger Group,Karlovac,29,11:02,23:15,
-140,"Cronin, Wiza and Thiel",Požega,24,10:29,21:54,
-141,"Boyer, Goyette and Kemmer",Split,14,10:20,21:26,
-142,Jacobs and Sons,Karlovac,29,10:38,21:40,true
-143,"Bayer, Hartmann and Powlowski",Split,11,10:43,23:37,true
-144,"Watsica, Kshlerin and Bergstrom",Đakovo,29,10:17,21:41,
-145,Braun-Schinner,Sisak,13,9:56,23:12,false
-146,Torphy-Jakubowski,Varaždin,13,11:32,21:51,
-147,White LLC,Pula,10,9:09,23:03,
-148,"Dare, Gleichner and Gutmann",Zagreb,15,10:26,22:13,
-149,Hyatt Inc,Bjelovar,16,9:06,22:26,
-150,Frami Group,Pula,26,11:41,22:20,
-151,Nader-Rodriguez,Velika Gorica,23,9:10,21:52,
-152,"Koepp, Dicki and Feest",Bjelovar,23,11:45,21:07,
-153,Kris LLC,Varaždin,30,10:47,21:33,
-154,Kerluke-Langosh,Koprivnica,25,9:27,23:02,
-155,"Friesen, Yundt and Windler",Pula,22,10:10,23:57,
-156,Rogahn-Hermiston,Zagreb,20,10:30,23:08,
-157,Konopelski LLC,Dubrovnik,20,10:28,21:44,
-158,Fahey-Bauch,Koprivnica,15,11:20,21:20,
-159,"Little, Nitzsche and Stanton",Vinkovci,19,11:39,22:50,
-160,"Ledner, Macejkovic and Hansen",Pula,12,10:07,22:20,true
-161,Ruecker-Kub,Vukovar,28,11:32,21:26,false
-162,Nitzsche-Cartwright,Zadar,13,11:05,22:22,
-163,"Goodwin, Kunde and Wehner",Bjelovar,30,10:26,23:19,
-164,Kris-Lindgren,Sisak,18,11:52,23:00,
-165,Heidenreich-Jenkins,Velika Gorica,20,9:45,23:47,
-166,"Greenfelder, Labadie and Wyman",Zagreb,25,9:45,22:55,false
-167,"Rutherford, Considine and Bins",Požega,11,10:10,23:58,false
-168,Kshlerin LLC,Zagreb,28,9:36,21:22,false
-169,"Feeney, Deckow and Wiza",Đakovo,14,9:03,22:57,
-170,"Davis, Hyatt and Zulauf",Rijeka,21,10:30,23:40,
-171,"Champlin, Schimmel and Rutherford",Čakovec,14,9:27,21:15,true
-172,"Cruickshank, Fisher and Abernathy",Sisak,21,10:15,23:06,
-173,"Schowalter, Herman and O'Kon",Zadar,26,10:10,23:50,
-174,Cassin and Sons,Pula,10,9:54,23:30,true
-175,Orn Group,Šibenik,18,11:43,21:27,true
-176,Langosh-Lindgren,Bjelovar,18,9:12,22:11,
-177,Borer and Sons,Dubrovnik,27,11:47,23:36,
-178,Abbott-Erdman,Vinkovci,29,10:25,23:50,
-179,Rosenbaum Group,Čakovec,24,9:05,23:29,true
-180,Donnelly Inc,Sisak,17,9:32,23:46,
-181,Parisian and Sons,Šibenik,12,10:06,21:26,
-182,"Ziemann, Rutherford and Effertz",Dubrovnik,12,9:58,22:46,true
-183,"Smith, Schaden and Leuschke",Zagreb,16,10:13,21:09,
-184,Barton and Sons,Karlovac,19,9:30,22:30,
-185,"Sauer, McGlynn and Paucek",Šibenik,15,11:51,23:41,false
-186,Casper and Sons,Zagreb,12,10:59,21:30,
-187,"Armstrong, Carter and Braun",Požega,28,11:33,21:23,
-188,Heller and Sons,Vukovar,22,9:06,23:05,
-189,Spinka-Lemke,Zagreb,20,10:50,23:06,
-190,Sporer-Durgan,Požega,20,11:28,21:23,
-191,"Rolfson, Windler and Jast",Požega,18,10:25,23:57,
-192,Walker LLC,Osijek,11,10:48,22:20,
-193,Medhurst and Sons,Velika Gorica,17,9:48,22:14,
-194,Ankunding Inc,Bjelovar,16,10:48,22:36,
-195,"Pfeffer, Baumbach and Rath",Rijeka,24,10:11,22:49,
-196,Bahringer-Halvorson,Sisak,26,9:47,22:34,false
-197,Steuber-Connelly,Zadar,12,11:44,22:48,
-198,"Muller, Abshire and Beahan",Rijeka,14,11:33,23:21,
-199,Maggio-Reynolds,Varaždin,13,11:26,21:13,
-200,Cremin and Sons,Karlovac,22,10:32,22:45,
-201,Denesik-Kub,Split,23,11:14,22:39,
-202,"Dietrich, Watsica and Franecki",Vinkovci,16,10:56,23:24,
-203,"Thompson, Jaskolski and Okuneva",Osijek,11,10:27,23:47,
-204,"O'Connell, Schneider and Kunde",Vinkovci,28,10:00,23:13,
-205,"Conroy, Johnston and Altenwerth",Split,22,9:42,22:31,
-206,Waelchi-Rohan,Split,16,10:10,23:44,
-207,"Christiansen, Bashirian and Bergnaum",Rijeka,26,9:42,23:16,
-208,Collier-Buckridge,Vukovar,17,11:50,23:44,
-209,Bergnaum LLC,Koprivnica,30,11:18,21:27,
-210,"Heller, Murazik and Jast",Karlovac,16,9:33,22:16,true
-211,Hilpert-Skiles,Slavonski Brod,12,9:57,23:13,
-212,Lesch-Parisian,Bjelovar,22,11:29,23:33,
-213,Hills LLC,Varaždin,13,9:32,23:23,
-214,Hamill and Sons,Zagreb,30,10:41,23:07,
-215,"Rice, Crooks and Yost",Dubrovnik,18,10:38,23:08,
-216,Schamberger-Anderson,Split,13,11:02,22:07,
-217,Jast Inc,Velika Gorica,19,10:15,21:28,true
-218,Ullrich-Price,Požega,28,11:27,23:48,
-219,"Lesch, Hamill and Schmidt",Karlovac,15,11:44,22:11,
-220,Price-Hegmann,Split,11,11:47,22:28,true
-221,Kris-Kling,Bjelovar,26,11:29,23:01,true
-222,Yost LLC,Osijek,27,9:54,22:44,
-223,"Hayes, Anderson and Braun",Dubrovnik,13,9:05,21:19,
-224,Schmitt-Krajcik,Koprivnica,24,10:52,22:02,
-225,"Quigley, Hoppe and Fadel",Zagreb,28,10:09,21:24,
-226,Treutel-Cronin,Vukovar,19,11:55,21:51,
-227,Rolfson-Conroy,Sisak,17,10:44,22:30,
-228,Quitzon Inc,Pula,21,10:45,21:06,
-229,"Mayert, Hills and Okuneva",Pula,15,9:33,22:12,
-230,Conn and Sons,Koprivnica,25,9:28,22:20,
-231,Kemmer-Stark,Rijeka,12,10:37,22:35,true
-232,Volkman-Schmidt,Vukovar,24,10:25,21:17,
-233,Hagenes Inc,Dubrovnik,14,10:11,21:27,
-234,Jones-Kirlin,Zagreb,10,11:31,22:11,true
-235,Mayer LLC,Zagreb,26,9:41,22:07,
-236,Hills-Kshlerin,Dubrovnik,26,9:00,23:32,true
-237,Botsford Inc,Sisak,16,10:12,22:51,false
-238,"Prohaska, Wolff and Dietrich",Čakovec,10,9:51,23:22,true
-239,Buckridge-Hegmann,Slavonski Brod,23,11:32,21:28,
-240,"Windler, Roberts and Huel",Varaždin,23,11:53,22:11,
-241,Hansen-Paucek,Dubrovnik,17,9:52,22:20,
-242,Swift-Boehm,Zagreb,30,10:59,22:47,
-243,Cassin LLC,Split,21,10:33,23:47,
-244,Zemlak Inc,Varaždin,29,9:25,21:13,true
-245,"Kub, McKenzie and Fisher",Čakovec,21,11:12,22:33,
-246,Yost-Johnston,Čakovec,13,11:44,21:09,
-247,"Dibbert, Hermiston and Flatley",Đakovo,30,10:56,23:19,false
-248,Gorczany Inc,Zagreb,14,9:17,22:37,
-249,Bednar-Hackett,Velika Gorica,16,9:12,23:01,
-250,Blanda-Douglas,Sisak,11,11:17,21:12,
-251,Collins-O'Hara,Šibenik,13,9:38,22:52,false
-252,Bartell Group,Zadar,15,11:31,22:42,
-253,Abernathy-Bergstrom,Velika Gorica,30,10:14,23:44,
-254,Zieme LLC,Bjelovar,10,10:11,22:52,
-255,"Block, Jacobi and Kling",Dubrovnik,26,10:15,22:21,
-256,Kuhlman Group,Karlovac,26,11:43,23:33,
-257,Volkman Inc,Karlovac,13,11:00,23:56,
-258,Donnelly Inc,Vinkovci,23,11:18,23:21,
-259,"Schulist, Gerlach and Auer",Slavonski Brod,22,10:05,23:19,
-260,"Medhurst, Muller and Langosh",Šibenik,23,11:21,23:56,
-261,Stroman Inc,Vinkovci,14,10:38,22:04,
-262,Kilback-Gleason,Koprivnica,20,9:59,22:02,false
-263,Langworth-Bednar,Split,26,10:05,21:04,
-264,O'Reilly-Treutel,Bjelovar,20,9:23,21:41,true
-265,Cremin-Pfeffer,Karlovac,26,10:52,22:55,
-266,"Breitenberg, Balistreri and Yost",Bjelovar,16,9:06,22:03,
-267,Crona-Schmitt,Zagreb,15,11:16,22:54,
-268,McCullough and Sons,Bjelovar,19,10:12,22:26,false
-269,Lockman Inc,Velika Gorica,30,11:07,21:58,
-270,Trantow-Schimmel,Split,15,10:16,23:15,
-271,Crist-Kessler,Dubrovnik,12,10:35,21:27,
-272,"Terry, Waelchi and Aufderhar",Sisak,20,11:16,22:20,
-273,"Wehner, Schmidt and Zboncak",Đakovo,29,10:54,23:09,false
-274,"Anderson, Harvey and Dare",Rijeka,20,10:23,21:16,true
-275,Hettinger-Monahan,Vukovar,21,10:28,23:28,true
-276,Spinka-Willms,Varaždin,19,10:48,23:41,
-277,"Braun, Greenholt and Lubowitz",Rijeka,30,11:18,22:03,
-278,Mosciski-Rowe,Đakovo,18,11:42,23:19,
-279,Casper and Sons,Šibenik,10,10:38,22:30,
-280,"Koepp, Hodkiewicz and Runte",Šibenik,23,9:04,23:22,
-281,"Erdman, Dickens and Gulgowski",Bjelovar,12,11:36,22:51,false
-282,Pagac-Hermiston,Osijek,21,11:06,22:54,
-283,Paucek-Feil,Zagreb,20,9:08,23:56,
-284,Jast Inc,Split,28,9:16,22:13,false
-285,Stiedemann-Leannon,Dubrovnik,18,9:32,21:38,
-286,Bayer-Bashirian,Đakovo,13,10:32,23:04,
-287,Swift Group,Šibenik,17,11:49,21:59,
-288,Smith-Dickens,Koprivnica,20,11:37,23:31,
-289,Kautzer Inc,Rijeka,20,10:34,21:17,
-290,"MacGyver, Haley and Toy",Varaždin,29,9:04,22:33,false
-291,"Stehr, Fahey and Sporer",Pula,25,10:09,21:39,true
-292,Stamm Inc,Požega,26,10:22,22:40,true
-293,Kunze Group,Zagreb,16,9:15,23:14,
-294,Russel and Sons,Dubrovnik,30,9:12,23:17,
-295,Lemke Group,Požega,27,9:24,23:33,
-296,O'Connell-Cronin,Split,26,9:56,23:35,
-297,Heathcote and Sons,Pula,15,10:17,22:54,
-298,Kunde and Sons,Split,14,9:22,22:45,
-299,"Zieme, Morar and Kuhic",Slavonski Brod,12,10:54,21:04,
-300,"Friesen, Hintz and Beahan",Čakovec,10,9:29,23:24,false
-301,Lesch LLC,Osijek,16,11:10,23:41,
-302,Bosco LLC,Vinkovci,18,9:33,22:22,
-303,"Tromp, Roob and Greenfelder",Zadar,29,10:24,21:47,false
-304,"Barton, Mitchell and Mann",Šibenik,18,9:23,23:35,
-305,Deckow Inc,Dubrovnik,26,11:33,21:11,
-306,O'Keefe Inc,Split,25,10:58,21:57,
-307,"Aufderhar, Tillman and Mosciski",Bjelovar,18,10:42,22:09,
-308,"Feest, Witting and Romaguera",Đakovo,12,11:53,21:14,
-309,Shanahan LLC,Osijek,17,11:37,22:57,true
-310,"Prosacco, Baumbach and Kutch",Pula,28,11:16,23:24,
-311,Murazik-Herman,Karlovac,24,9:57,21:02,
-312,O'Keefe LLC,Zadar,26,10:39,22:31,
-313,Doyle-Ledner,Dubrovnik,13,9:46,23:21,true
-314,Runolfsdottir-Flatley,Zagreb,14,10:33,22:32,
-315,Langworth and Sons,Vinkovci,12,9:11,21:21,true
-316,Weimann-Wisozk,Koprivnica,12,10:01,22:21,
-317,Stanton LLC,Vinkovci,27,9:35,22:01,
-318,Bernhard and Sons,Šibenik,24,9:43,21:04,
-319,"Blanda, Greenholt and Kemmer",Pula,10,11:08,23:41,false
-320,Sanford Group,Požega,10,11:43,21:23,
-321,"Erdman, Considine and Kutch",Bjelovar,22,10:46,22:24,
-322,Turner LLC,Slavonski Brod,15,11:33,22:17,
-323,Bogan Inc,Rijeka,12,11:07,22:32,
-324,"Runolfsson, Bernier and Boehm",Osijek,26,11:53,22:56,
-325,"Windler, Gutmann and Stokes",Varaždin,17,10:34,23:54,
-326,Larson-Farrell,Karlovac,29,11:33,23:05,
-327,Balistreri Group,Čakovec,26,10:40,22:18,false
-328,"Boyer, Rohan and Ortiz",Velika Gorica,15,10:06,21:51,
-329,"Beahan, Hansen and Kirlin",Velika Gorica,26,10:20,22:11,
-330,"Nienow, Abshire and Farrell",Zadar,12,11:50,21:42,
-331,"Rippin, Mosciski and Metz",Čakovec,21,10:55,21:52,true
-332,Veum-Watsica,Čakovec,12,9:50,22:10,
-333,"Herman, Olson and Ondricka",Šibenik,18,10:23,23:24,
-334,"Abshire, Daniel and Gulgowski",Sisak,28,11:08,22:21,
-335,"Boyer, Mann and Smitham",Velika Gorica,25,11:35,22:32,
-336,Weimann Group,Požega,15,9:09,21:02,
-337,"Friesen, Lemke and Kutch",Požega,29,10:02,21:14,
-338,Hoppe LLC,Vinkovci,20,11:56,22:28,false
-339,Langosh-Hudson,Zagreb,23,10:55,23:20,
-340,Kuhic Group,Velika Gorica,19,10:39,23:28,
-341,Aufderhar and Sons,Zadar,30,9:08,23:13,false
-342,Collins and Sons,Zagreb,28,9:42,22:55,
-343,Gleason Group,Koprivnica,27,11:58,23:13,true
-344,Rutherford and Sons,Slavonski Brod,25,9:22,22:26,
-345,"Hills, Smitham and Padberg",Karlovac,15,10:37,21:54,false
-346,Nikolaus-Langosh,Vinkovci,16,10:28,22:07,true
-347,"Hickle, Kling and Braun",Varaždin,13,10:55,21:12,
-348,"Fadel, Weimann and Von",Varaždin,23,10:07,21:52,
-349,Thiel-Buckridge,Šibenik,21,11:33,23:15,
-350,"Effertz, Haley and Langworth",Čakovec,15,11:21,21:04,false
-351,"McCullough, Pacocha and Wuckert",Dubrovnik,19,10:19,22:14,
-352,Kunde-Gibson,Sisak,14,11:28,21:38,
-353,O'Keefe-Lowe,Slavonski Brod,20,10:39,22:19,true
-354,Yost-Monahan,Požega,10,9:57,23:21,false
-355,Crona-Abbott,Đakovo,13,11:15,22:24,
-356,"Waters, Swaniawski and Effertz",Rijeka,27,10:02,21:36,
-357,"Rowe, Gislason and Windler",Varaždin,24,9:48,22:47,true
-358,"Jenkins, Considine and Boyle",Zadar,11,11:27,23:50,
-359,"Jacobson, Keeling and Little",Osijek,10,11:35,21:11,
-360,"Fritsch, Moore and Cartwright",Karlovac,21,9:51,21:45,
-361,"Terry, Nikolaus and Gusikowski",Zadar,27,9:51,21:52,
-362,Ritchie-Pfeffer,Slavonski Brod,25,9:21,21:37,false
-363,"Bechtelar, Armstrong and Weissnat",Pula,30,10:39,21:40,
-364,"Glover, Rice and Kautzer",Sisak,25,9:30,21:35,
-365,Herman and Sons,Đakovo,26,9:07,22:55,
-366,"Armstrong, Heidenreich and Stamm",Split,14,11:22,21:23,
-367,"Gleichner, Kshlerin and Mayer",Požega,11,11:00,22:38,true
-368,Heaney and Sons,Dubrovnik,23,11:25,21:39,
-369,Marvin-Stamm,Velika Gorica,15,9:32,23:04,
-370,Auer LLC,Osijek,11,9:37,22:20,false
-371,"Goodwin, Kemmer and Koss",Zagreb,18,11:03,23:23,
-372,Shields and Sons,Đakovo,23,11:31,23:40,true
-373,"Orn, Vandervort and Beatty",Zadar,28,11:21,22:41,
-374,Larson Inc,Koprivnica,28,11:37,22:57,
-375,Considine LLC,Koprivnica,16,9:13,22:52,false
-376,Erdman-Emmerich,Karlovac,24,11:32,22:47,
-377,McCullough Group,Varaždin,16,9:36,21:06,
-378,Halvorson-Cruickshank,Pula,28,10:04,22:46,true
-379,Jacobi LLC,Vinkovci,16,11:21,22:40,
-380,Corwin Inc,Zadar,30,11:29,22:35,
-381,Romaguera and Sons,Čakovec,16,9:05,21:07,true
-382,"Klein, Dicki and Brown",Dubrovnik,15,9:59,23:41,false
-383,"Treutel, Crooks and Flatley",Varaždin,20,11:17,22:58,false
-384,"Marks, Glover and Johnson",Zadar,20,11:53,21:16,true
-385,Doyle and Sons,Rijeka,15,10:37,23:12,
-386,Jast LLC,Osijek,26,9:50,22:40,true
-387,Reichel-Beahan,Zagreb,24,11:39,23:00,
-388,Effertz LLC,Zadar,19,9:06,23:12,
-389,Cummerata Group,Đakovo,15,10:05,23:58,
-390,Effertz and Sons,Sisak,10,11:45,22:19,
-391,Hackett Group,Varaždin,28,11:22,21:55,
-392,"Dietrich, Rutherford and Rau",Slavonski Brod,14,11:30,22:47,false
-393,Kirlin and Sons,Đakovo,19,10:37,21:29,
-394,"Baumbach, Friesen and Ankunding",Velika Gorica,16,11:01,21:36,
-395,"Considine, Kulas and Spinka",Slavonski Brod,30,10:06,23:06,
-396,Considine-Funk,Vukovar,26,9:54,22:01,
-397,Walsh and Sons,Rijeka,15,9:43,22:35,
-398,Haley-Rolfson,Koprivnica,16,11:29,23:58,
-399,"Howell, Strosin and Hayes",Varaždin,13,10:56,21:29,
-400,Raynor Inc,Koprivnica,13,10:08,23:16,
-401,"Kuhn, Brakus and Ward",Slavonski Brod,26,11:49,23:58,
-402,"Raynor, O'Keefe and Rogahn",Koprivnica,11,10:16,22:17,
-403,"Gerlach, Kuhn and Crooks",Đakovo,14,11:11,23:41,
-404,Mueller-Breitenberg,Sisak,11,11:27,22:32,
-405,"Mayer, Schroeder and Moore",Čakovec,30,10:41,22:53,false
-406,"Rogahn, Oberbrunner and Torp",Vinkovci,27,10:28,22:14,
-407,Nikolaus LLC,Velika Gorica,25,10:22,23:09,
-408,Price-Pfannerstill,Čakovec,24,10:35,23:21,
-409,Funk-Bruen,Karlovac,14,9:15,21:14,
-410,"Kirlin, Feil and Sporer",Đakovo,16,10:24,21:56,
-411,Kuhic-Langworth,Split,17,11:53,23:23,
-412,Schiller-Toy,Vinkovci,17,11:49,22:22,
-413,Schaefer-Kuphal,Koprivnica,13,11:05,23:09,
-414,Watsica-Hammes,Dubrovnik,10,10:32,23:57,
-415,Corkery LLC,Rijeka,13,11:37,21:43,
-416,Paucek Inc,Šibenik,23,9:22,21:55,true
-417,O'Reilly-Lebsack,Šibenik,22,11:49,23:46,true
-418,Herzog-Cassin,Varaždin,21,11:57,22:28,
-419,Mills-Cummerata,Šibenik,17,9:41,21:28,
-420,Ferry LLC,Varaždin,29,9:16,22:03,
-421,Stehr Group,Velika Gorica,18,10:26,22:41,
-422,Heaney Group,Pula,27,9:57,22:54,
-423,Gibson LLC,Čakovec,17,11:28,21:54,
-424,Jerde Inc,Koprivnica,21,10:17,23:37,
-425,Borer Group,Split,12,10:46,22:02,false
-426,Cassin-Wilkinson,Varaždin,16,9:26,21:40,
-427,Wuckert and Sons,Varaždin,22,10:53,22:31,
-428,"Jones, Stroman and Stark",Osijek,16,9:04,22:40,
-429,Bayer and Sons,Dubrovnik,29,10:51,21:35,true
-430,"Leuschke, Funk and Zboncak",Slavonski Brod,24,10:45,22:30,false
-431,Heidenreich Inc,Karlovac,18,9:53,23:02,
-432,"Block, Schiller and Feil",Zagreb,21,11:02,22:44,false
-433,Turcotte Inc,Split,23,9:22,22:18,
-434,Kessler LLC,Varaždin,18,9:46,23:32,
-435,Macejkovic-Larson,Đakovo,12,10:02,21:22,false
-436,Lueilwitz-Waters,Karlovac,25,9:43,23:06,
-437,"Kessler, Monahan and Schumm",Velika Gorica,11,10:22,22:16,
-438,"Dare, Schmidt and Schimmel",Šibenik,22,11:22,22:36,
-439,Wolff Inc,Požega,30,10:03,23:55,true
-440,McLaughlin-Conroy,Slavonski Brod,22,9:51,21:09,
-441,Lesch-Walker,Zagreb,12,10:42,22:19,false
-442,"Ritchie, Padberg and Lang",Slavonski Brod,15,9:24,21:51,
-443,Runolfsdottir-Pacocha,Đakovo,29,11:30,22:25,
-444,Mann-Watsica,Koprivnica,30,10:45,21:50,
-445,"Lind, Funk and Hessel",Zagreb,28,9:08,21:07,
-446,Harber Group,Vinkovci,14,10:10,23:00,
-447,"Krajcik, Bogan and Krajcik",Šibenik,29,10:50,23:01,
-448,Kiehn Inc,Dubrovnik,10,9:55,22:27,
-449,"Walker, Schmeler and Botsford",Zadar,11,9:55,23:21,
-450,"Conn, Howe and Cremin",Pula,29,10:36,23:46,
-451,Lemke Group,Rijeka,26,11:05,23:30,
-452,"Rowe, Howell and Wiegand",Velika Gorica,10,9:59,22:49,
-453,"Daugherty, Doyle and Kunde",Velika Gorica,26,11:05,21:39,
-454,Cummings-Keeling,Velika Gorica,13,10:49,23:17,true
-455,Stanton LLC,Rijeka,15,10:03,22:15,
-456,Jacobson-Raynor,Koprivnica,17,10:27,23:08,
-457,"Hyatt, Moen and Swift",Šibenik,29,9:31,22:49,true
-458,"Larkin, Waelchi and Oberbrunner",Vinkovci,30,11:28,22:21,
-459,"Gulgowski, Cummings and King",Osijek,18,10:58,22:53,
-460,"Bradtke, O'Connell and Reilly",Dubrovnik,29,9:20,22:48,
-461,Tromp LLC,Pula,30,11:54,23:22,
-462,"Bode, Barton and Cummerata",Slavonski Brod,30,10:29,21:09,true
-463,"Kozey, Walker and Balistreri",Velika Gorica,27,10:20,21:10,
-464,West-Boehm,Vinkovci,27,10:28,21:34,
-465,Cole-Dach,Split,27,10:55,23:50,
-466,Donnelly and Sons,Šibenik,10,10:29,23:08,
-467,"Bins, Hessel and Hartmann",Čakovec,28,10:02,23:49,false
-468,"Konopelski, Tillman and Feeney",Vinkovci,10,11:16,23:46,
-469,O'Hara-Gibson,Slavonski Brod,20,11:20,23:32,true
-470,Corkery-Homenick,Split,28,9:08,22:53,false
-471,"Brown, Mante and Rempel",Požega,26,9:41,22:17,
-472,"Kunde, Tromp and Mertz",Požega,22,11:03,23:35,
-473,"Rutherford, Padberg and Hane",Zagreb,13,10:44,21:46,
-474,"Price, Bahringer and Barton",Vukovar,10,11:50,21:17,
-475,Bins-Crona,Slavonski Brod,22,11:02,22:56,
-476,Robel-Conroy,Karlovac,27,10:45,23:19,
-477,Littel-Kovacek,Pula,23,9:59,23:26,
-478,Keeling-Pollich,Zadar,29,10:42,22:33,
-479,Kessler-Schoen,Karlovac,14,9:30,22:52,
-480,"Quitzon, Ondricka and Gorczany",Velika Gorica,25,11:37,23:58,true
-481,Gulgowski-Bogisich,Šibenik,28,9:50,21:10,
-482,Reinger Inc,Sisak,17,10:03,23:13,
-483,"Sauer, Funk and Bernhard",Varaždin,28,10:51,22:49,
-484,Herman-Corkery,Osijek,29,9:36,23:50,
-485,Carroll and Sons,Koprivnica,22,10:37,23:57,
-486,Jenkins Inc,Čakovec,24,11:32,23:47,
-487,"Beier, Jast and Medhurst",Đakovo,15,11:46,21:20,
-488,"Weissnat, Langosh and Kertzmann",Vukovar,30,10:19,22:21,
-489,Torphy-Reynolds,Split,27,9:36,22:22,
-490,Hagenes-Ortiz,Rijeka,19,10:57,22:37,false
-491,Littel-Wehner,Karlovac,19,11:08,23:20,
-492,Reynolds Inc,Vinkovci,29,11:21,21:21,
-493,"Waelchi, Stracke and Parisian",Split,19,9:21,22:18,
-494,Conn and Sons,Pula,29,10:19,21:31,
-495,"Kris, Kub and Hessel",Karlovac,23,9:10,23:55,
-496,"Durgan, Treutel and Hayes",Čakovec,19,11:08,23:50,
-497,"Mohr, Hansen and Jast",Varaždin,22,10:49,22:51,
-498,"Paucek, Paucek and Upton",Osijek,29,9:28,23:37,true
-499,Hills-Kutch,Bjelovar,23,11:03,22:07,
-500,Ruecker-Larkin,Vinkovci,10,9:43,21:00,
-501,Spencer Inc,Rijeka,26,11:56,21:00,
-502,Nolan LLC,Varaždin,22,9:17,23:57,
-503,Williamson-Lowe,Rijeka,20,10:57,23:54,
-504,"Frami, Bradtke and Dooley",Slavonski Brod,29,10:25,22:45,
-505,"Bruen, Witting and Weber",Varaždin,21,9:02,23:11,
-506,Corkery-Borer,Dubrovnik,11,9:32,22:48,
-507,Wyman and Sons,Vinkovci,16,11:20,22:11,
-508,Schroeder Group,Dubrovnik,30,10:26,21:21,
-509,Mitchell Inc,Šibenik,12,10:22,23:11,
-510,Hilpert-Connelly,Đakovo,15,10:46,22:47,
-511,Maggio Group,Zagreb,15,10:24,23:56,
-512,Stroman-Osinski,Rijeka,25,9:42,21:58,
-513,Stehr-Osinski,Split,28,10:42,21:09,
-514,Crist-Mayer,Bjelovar,15,9:15,21:07,
-515,Schumm-Fay,Koprivnica,23,9:45,23:24,
-516,Hansen and Sons,Šibenik,18,10:31,22:56,
-517,Corwin LLC,Požega,30,9:17,21:44,
-518,Lynch-Douglas,Slavonski Brod,23,9:39,22:37,
-519,Kozey-Kuhlman,Zagreb,28,11:42,22:16,
-520,Grady and Sons,Čakovec,20,10:38,21:20,false
-521,"O'Conner, Waters and Mayert",Požega,16,9:35,23:53,
-522,"Hahn, Cronin and Bergnaum",Požega,11,11:57,23:19,
-523,Cruickshank-Howell,Vinkovci,10,9:40,22:41,
-524,Christiansen and Sons,Karlovac,28,11:55,22:54,
-525,"Marks, Christiansen and Nitzsche",Šibenik,23,10:41,23:15,false
-526,"Gislason, Lakin and Erdman",Velika Gorica,19,9:45,23:35,true
-527,"Jacobs, Abbott and Johnston",Pula,21,9:45,22:01,
-528,Gerlach LLC,Zagreb,23,9:05,22:57,
-529,Stracke LLC,Zagreb,27,9:17,23:00,
-530,Parker Inc,Split,30,10:50,21:11,true
-531,Emard-Yost,Đakovo,12,9:11,23:29,
-532,Farrell-Heathcote,Vinkovci,17,9:56,21:28,true
-533,Kuhn Group,Split,16,10:12,22:00,
-534,"Ferry, Miller and Schmitt",Zagreb,13,9:53,23:35,
-535,Schowalter Group,Rijeka,21,9:06,22:07,
-536,"Nikolaus, Schuppe and Mohr",Đakovo,26,11:30,22:49,
-537,"Wisozk, Bauch and Schimmel",Bjelovar,19,10:55,21:48,
-538,"Zieme, Spinka and Deckow",Sisak,28,10:30,22:56,
-539,Kessler-Gerhold,Vinkovci,13,10:43,23:35,
-540,"Hermann, Reichel and Gleichner",Đakovo,16,9:11,23:54,
-541,"Hilpert, Gerhold and Jenkins",Zadar,15,9:43,22:21,
-542,"Kessler, Schinner and Orn",Čakovec,23,9:47,22:23,
-543,"Lockman, Balistreri and Vandervort",Pula,27,9:27,23:09,
-544,Gutkowski and Sons,Velika Gorica,23,10:14,21:09,
-545,"Runolfsdottir, Ernser and Crona",Zadar,29,10:17,23:27,true
-546,Buckridge-Russel,Rijeka,27,9:00,21:35,
-547,Ebert LLC,Sisak,18,9:32,21:43,
-548,VonRueden-Cartwright,Karlovac,29,10:42,22:59,
-549,Miller LLC,Zagreb,22,11:22,21:54,true
-550,"Schulist, Mann and Spencer",Rijeka,18,11:24,22:28,true
-551,Towne and Sons,Čakovec,12,11:27,23:24,
-552,Swift Inc,Šibenik,10,9:50,23:19,
-553,Zulauf-Beier,Čakovec,16,10:00,22:52,
-554,"Murray, Feeney and Lebsack",Đakovo,12,11:12,22:48,false
-555,Erdman-Wunsch,Rijeka,13,9:06,21:22,
-556,Kulas LLC,Dubrovnik,19,11:37,22:02,
-557,Renner-McGlynn,Zadar,27,11:31,21:43,
-558,Beahan-Barton,Rijeka,17,9:00,22:52,
-559,"Schneider, Labadie and Schuster",Đakovo,10,9:49,22:28,
-560,Paucek-Bogisich,Velika Gorica,24,9:04,22:46,true
-561,Sawayn Inc,Vukovar,20,9:19,21:49,
-562,"Crist, Ward and Bogisich",Rijeka,25,11:58,21:00,
-563,"Gerhold, Torphy and Reynolds",Slavonski Brod,13,9:17,21:10,
-564,Simonis LLC,Zagreb,26,9:37,23:08,
-565,"Rutherford, Feeney and Jerde",Đakovo,23,9:49,23:09,
-566,Emard Group,Rijeka,10,11:01,21:15,
-567,Rippin Group,Zagreb,13,9:58,22:06,
-568,Ryan Group,Split,10,10:13,22:24,false
-569,"Skiles, Heidenreich and Sipes",Koprivnica,22,11:47,23:35,
-570,Kuphal Group,Karlovac,22,9:48,22:43,false
-571,Rohan Inc,Vukovar,20,10:00,21:45,false
-572,Mills-Bayer,Karlovac,19,9:23,22:18,
-573,"Dibbert, Reinger and Boyer",Dubrovnik,22,9:16,22:46,
-574,"Orn, Walter and Gutmann",Vinkovci,28,9:11,21:28,
-575,Runolfsdottir-Dach,Šibenik,16,10:04,23:25,true
-576,Grant and Sons,Osijek,18,10:01,21:28,
-577,Ward-Rutherford,Slavonski Brod,19,9:44,22:03,
-578,Kuphal Group,Vinkovci,27,10:42,23:04,false
-579,"Jenkins, Medhurst and Stracke",Pula,27,9:26,23:19,
-580,"Jacobi, Turcotte and Bernhard",Šibenik,21,9:43,22:48,
-581,Stracke-Adams,Zagreb,12,11:17,22:12,
-582,Gleichner Inc,Bjelovar,17,11:28,21:59,true
-583,Rohan-O'Hara,Vukovar,13,11:55,21:17,
-584,Wisoky Group,Karlovac,24,9:24,23:56,
-585,Hansen-Beahan,Sisak,15,11:29,21:03,
-586,Swift and Sons,Velika Gorica,11,10:26,21:38,
-587,Grady-Feest,Varaždin,18,10:30,21:28,true
-588,Feeney-Wehner,Sisak,17,10:02,22:27,
-589,Turcotte-Prosacco,Varaždin,12,11:19,21:04,
-590,"Cartwright, Kutch and Nicolas",Vukovar,25,10:49,21:18,
-591,Hegmann-Pollich,Požega,13,9:29,23:45,
-592,Huels-Reichel,Osijek,24,9:11,23:25,
-593,Nicolas and Sons,Čakovec,16,10:43,23:49,false
-594,Wolff LLC,Sisak,28,11:01,21:15,
-595,"Rolfson, Thiel and Bosco",Sisak,20,11:35,21:33,
-596,Hane-Swaniawski,Vinkovci,24,11:45,22:47,
-597,Mills-O'Reilly,Pula,11,10:07,21:46,false
-598,Spencer and Sons,Karlovac,14,10:13,22:26,
-599,Haag Inc,Zadar,11,11:39,22:12,
-600,Smitham LLC,Đakovo,15,10:24,22:24,true
-601,"Hettinger, Dare and Skiles",Zadar,14,9:59,21:27,
-602,Fahey-Larkin,Varaždin,25,10:06,23:11,
-603,"Connelly, Roberts and Lebsack",Vinkovci,18,10:27,22:16,true
-604,Bruen Inc,Varaždin,15,10:03,23:11,
-605,"Ryan, Berge and Williamson",Dubrovnik,30,9:15,23:46,
-606,"Mante, Olson and Connelly",Vinkovci,18,9:49,21:13,
-607,"Bartoletti, Maggio and Boehm",Čakovec,22,9:45,23:12,true
-608,Mills-Paucek,Velika Gorica,22,10:19,22:24,
-609,Borer-Lueilwitz,Rijeka,26,10:51,21:57,
-610,Yundt Inc,Karlovac,13,10:26,22:57,
-611,Schiller and Sons,Zadar,29,9:46,23:36,true
-612,Morissette-Boyle,Karlovac,28,11:05,23:18,
-613,"Shields, Klein and Harris",Koprivnica,14,9:14,21:24,
-614,"Wiegand, Runolfsson and Mertz",Vinkovci,23,9:56,22:01,
-615,"Beatty, Block and Krajcik",Varaždin,23,10:53,23:42,
-616,Gottlieb and Sons,Požega,12,10:21,21:40,
-617,Brekke-Shields,Split,30,11:34,23:45,
-618,"Greenholt, Adams and Hackett",Karlovac,15,10:22,21:04,
-619,Renner Inc,Bjelovar,16,10:40,21:05,
-620,Schimmel Group,Sisak,17,10:57,22:15,
-621,"Murazik, Hilll and Casper",Koprivnica,12,11:08,22:35,false
-622,"Rowe, Morar and Hammes",Varaždin,23,10:02,22:04,
-623,Nienow-Ryan,Zagreb,17,9:28,21:54,
-624,"Toy, Schmidt and Stracke",Zagreb,13,10:31,21:17,
-625,Pacocha and Sons,Pula,25,10:32,22:15,
-626,Gutkowski and Sons,Dubrovnik,27,11:01,23:46,
-627,"Friesen, Friesen and Cole",Velika Gorica,20,11:17,22:27,
-628,"Wiza, MacGyver and Toy",Požega,14,9:21,22:07,
-629,"Barrows, Heidenreich and Kris",Karlovac,18,9:49,21:21,
-630,Romaguera Group,Čakovec,24,10:03,23:22,
-631,Ferry Group,Požega,19,11:51,21:52,
-632,"Schmitt, Kling and Hahn",Osijek,18,10:26,23:05,
-633,Batz-Walker,Slavonski Brod,10,10:20,21:29,
-634,"Koss, Haley and Ledner",Šibenik,20,11:09,23:18,
-635,"Reichel, Dicki and Schiller",Rijeka,10,11:47,22:44,
-636,Fadel and Sons,Split,26,10:25,23:22,true
-637,Mitchell-Ernser,Varaždin,29,11:52,21:54,
-638,"Harber, Hayes and Lubowitz",Osijek,15,9:36,21:01,
-639,Kirlin and Sons,Varaždin,29,11:08,21:17,
-640,Kreiger-Funk,Požega,11,9:52,22:22,false
-641,Abbott Inc,Zagreb,22,10:55,22:27,
-642,Hudson-Haley,Pula,10,11:28,22:34,
-643,Deckow and Sons,Dubrovnik,27,11:37,22:13,
-644,"Beahan, Carter and Cormier",Varaždin,13,10:01,21:23,
-645,Grimes and Sons,Koprivnica,11,11:18,21:28,
-646,"Metz, Hartmann and Hansen",Dubrovnik,30,10:50,21:37,
-647,"Mayert, Steuber and D'Amore",Sisak,21,10:02,22:13,
-648,"Connelly, Conroy and Satterfield",Rijeka,19,10:31,23:34,
-649,Kilback-Gutmann,Slavonski Brod,14,10:52,21:13,
-650,"Kemmer, Bashirian and Bins",Split,28,11:35,22:19,
-651,"Jerde, Carroll and Fadel",Rijeka,30,11:51,21:45,
-652,"Barrows, Torp and Zboncak",Pula,14,10:57,22:54,
-653,"Legros, Koelpin and Weimann",Bjelovar,12,10:39,23:27,
-654,Nicolas-Kutch,Koprivnica,30,10:48,23:31,
-655,Hermann and Sons,Šibenik,21,11:50,22:17,
-656,"Waelchi, Schuster and Kuhic",Slavonski Brod,12,9:55,21:53,true
-657,"Baumbach, Romaguera and Swift",Bjelovar,18,9:11,22:05,
-658,Ruecker LLC,Dubrovnik,21,10:25,22:51,
-659,Keeling and Sons,Vukovar,13,9:56,21:07,
-660,"Kshlerin, Spencer and Mohr",Đakovo,26,10:31,23:16,
-661,O'Hara-O'Keefe,Šibenik,26,11:05,21:58,false
-662,Murazik-Nolan,Karlovac,12,10:16,23:58,
-663,Lindgren Group,Đakovo,17,11:47,22:01,
-664,Gorczany LLC,Pula,21,11:12,23:44,
-665,"Stroman, O'Reilly and Jones",Đakovo,19,10:35,22:54,
-666,Luettgen Inc,Zadar,29,11:05,21:29,
-667,Wehner-Schowalter,Vukovar,11,9:58,21:30,
-668,Lubowitz-Metz,Sisak,20,10:45,21:01,true
-669,Yundt and Sons,Varaždin,26,9:45,21:48,
-670,"Mitchell, Mills and Mueller",Split,18,11:55,21:42,
-671,"Macejkovic, Sawayn and Hills",Vukovar,10,9:25,23:01,
-672,Schneider Group,Slavonski Brod,14,10:43,23:04,
-673,"Lowe, Schoen and Doyle",Slavonski Brod,18,11:18,23:51,
-674,"Heidenreich, Olson and Thiel",Bjelovar,17,10:57,23:42,
-675,Little-Bartoletti,Požega,15,11:36,22:26,
-676,Simonis LLC,Vukovar,19,9:39,21:29,
-677,"Hintz, Satterfield and Thiel",Rijeka,15,10:01,23:07,
-678,"Bernier, Rogahn and Kemmer",Karlovac,28,10:39,21:49,
-679,Emmerich-Bernier,Vukovar,19,10:48,21:08,
-680,"Keeling, Marks and Kessler",Varaždin,30,9:57,22:37,true
-681,"Kessler, Welch and Walter",Šibenik,15,10:28,23:10,
-682,Bogan Group,Požega,22,10:16,23:42,false
-683,Macejkovic-Dibbert,Karlovac,27,9:27,21:55,
-684,"Bayer, Koch and Gislason",Vukovar,14,9:52,23:49,false
-685,Brekke Inc,Sisak,21,9:51,22:56,
-686,Koepp Group,Požega,14,9:55,21:28,
-687,"Hintz, Effertz and Legros",Zagreb,10,9:08,21:46,
-688,"Koepp, West and Abshire",Požega,29,9:47,21:21,
-689,Effertz Group,Zadar,11,9:07,22:10,
-690,Hammes-Hayes,Rijeka,19,9:44,21:49,true
-691,"Tillman, Reilly and Tremblay",Slavonski Brod,29,9:12,23:26,
-692,"Fisher, Lynch and Weissnat",Zagreb,17,9:40,21:21,true
-693,Jacobs LLC,Vukovar,23,10:36,21:19,
-694,Kutch-Lang,Zadar,16,9:40,21:44,
-695,"Miller, Gusikowski and Hegmann",Rijeka,21,9:56,22:26,false
-696,"Nicolas, Fisher and Treutel",Vukovar,15,11:43,23:05,
-697,Reinger Group,Zadar,24,10:46,22:30,true
-698,"Herman, Bayer and Predovic",Čakovec,18,10:13,21:33,
-699,"Glover, Dicki and Jerde",Đakovo,11,10:31,22:29,true
-700,"Stehr, Blanda and Von",Osijek,16,9:05,22:17,
-701,Anderson Group,Karlovac,11,10:42,21:49,
-702,Lesch Group,Dubrovnik,14,9:39,22:45,
-703,Bartoletti-Bradtke,Vukovar,25,9:42,21:01,
-704,Reichel-Thompson,Dubrovnik,24,9:48,22:55,
-705,Wisoky-VonRueden,Šibenik,25,11:32,21:45,
-706,Johnson Group,Čakovec,20,11:53,21:22,false
-707,Bartell LLC,Zagreb,17,11:21,21:11,
-708,Smitham-Morar,Zadar,16,10:05,21:51,false
-709,D'Amore LLC,Rijeka,29,10:55,21:35,
-710,Casper Inc,Vukovar,28,9:36,22:21,
-711,Jaskolski-Hauck,Bjelovar,11,11:29,21:24,
-712,Beer Inc,Varaždin,16,11:14,23:35,
-713,Lemke-King,Đakovo,24,11:44,21:51,
-714,Schuster-Senger,Požega,26,11:58,23:34,
-715,Baumbach-Shanahan,Šibenik,14,9:59,21:56,
-716,Gibson Inc,Dubrovnik,22,9:16,21:16,
-717,Parker Inc,Slavonski Brod,22,10:04,22:26,
-718,Deckow Inc,Rijeka,11,9:13,22:16,
-719,Bogisich-Bartell,Požega,13,9:58,23:54,
-720,Bergnaum-Graham,Pula,10,10:28,22:54,
-721,"Witting, Schamberger and Buckridge",Dubrovnik,11,10:15,21:33,
-722,Grimes-Pollich,Vukovar,11,9:33,22:33,true
-723,"Crist, Bernhard and Dicki",Varaždin,25,11:52,21:16,true
-724,Von Inc,Čakovec,15,10:34,21:08,false
-725,"Zboncak, Gislason and Kohler",Vinkovci,23,11:32,22:34,true
-726,Abernathy-Marquardt,Zadar,10,9:30,21:24,
-727,"Dach, Sporer and Robel",Dubrovnik,23,11:16,21:35,
-728,"Aufderhar, Hirthe and Champlin",Koprivnica,24,9:40,21:43,
-729,Mayert-Metz,Šibenik,27,9:52,22:49,
-730,Stracke-Hoppe,Karlovac,27,10:23,21:58,
-731,Schaefer-Block,Vinkovci,12,11:20,22:46,
-732,Wehner-Renner,Slavonski Brod,29,10:40,22:11,
-733,"Corwin, Maggio and Koch",Pula,21,10:54,22:12,false
-734,Deckow and Sons,Dubrovnik,27,10:52,22:02,
-735,Bruen-Runolfsson,Šibenik,20,10:51,22:40,
-736,"Ondricka, Strosin and Prosacco",Čakovec,19,9:08,23:38,
-737,Wolff and Sons,Rijeka,25,11:05,23:34,
-738,Daugherty Group,Vukovar,25,10:53,23:19,
-739,Hagenes-Runte,Split,14,11:23,22:37,
-740,"Muller, Glover and Schmeler",Šibenik,18,11:58,23:52,
-741,"Deckow, Pacocha and McClure",Požega,30,10:53,21:28,
-742,Fahey-Ziemann,Zagreb,18,9:03,21:58,
-743,"Gutkowski, Fay and Reichert",Pula,27,9:57,22:18,
-744,"West, Johnson and Weissnat",Šibenik,20,11:04,23:48,
-745,Bernier Group,Sisak,24,9:54,22:21,
-746,Harvey LLC,Zagreb,26,10:57,21:31,
-747,Hartmann-Murazik,Koprivnica,28,11:37,23:48,false
-748,"Lebsack, Paucek and Jaskolski",Vukovar,24,10:31,21:14,false
-749,Marks LLC,Varaždin,17,9:02,21:41,
-750,Breitenberg-Grant,Sisak,24,11:24,23:57,
-751,Harber-Cronin,Vinkovci,22,10:33,22:29,
-752,"Gerhold, Collier and Ankunding",Velika Gorica,29,9:20,23:04,false
-753,"Price, Treutel and Reichert",Požega,24,10:37,21:31,false
-754,Kub-Volkman,Bjelovar,21,9:55,23:12,
-755,Balistreri and Sons,Velika Gorica,25,10:29,21:21,
-756,Sawayn Inc,Koprivnica,29,9:11,21:48,
-757,"Baumbach, Carter and Connelly",Pula,17,9:35,21:32,
-758,"Abernathy, Zieme and Veum",Slavonski Brod,23,10:48,23:41,
-759,Corwin-Sanford,Rijeka,24,10:14,22:44,
-760,Durgan-Fritsch,Koprivnica,21,10:29,21:45,false
-761,"Jacobi, Jones and Bosco",Rijeka,16,9:55,23:45,
-762,"Rau, Walter and Pacocha",Varaždin,16,9:22,22:43,
-763,Mills-Ward,Vukovar,29,11:29,21:49,false
-764,Beer-Jaskolski,Koprivnica,10,11:44,23:51,
-765,Williamson-Bashirian,Požega,14,11:52,21:40,
-766,Pacocha-Flatley,Vinkovci,26,9:34,22:56,true
-767,Macejkovic and Sons,Koprivnica,28,11:18,22:05,
-768,Hirthe-Steuber,Požega,14,9:58,21:26,
-769,"Hansen, Mertz and Carter",Požega,11,11:31,22:35,
-770,Dach-Morar,Varaždin,28,10:09,23:27,
-771,Schamberger Group,Koprivnica,27,10:23,21:43,
-772,Bogisich and Sons,Požega,25,9:23,23:01,
-773,Morar Group,Bjelovar,16,10:40,22:21,
-774,Hilll-Bergnaum,Šibenik,25,10:49,23:09,false
-775,"Zulauf, Fahey and Lueilwitz",Vukovar,29,10:14,23:47,false
-776,Watsica-O'Conner,Slavonski Brod,28,10:50,22:55,
-777,Hoeger and Sons,Split,24,10:58,22:24,
-778,"Smith, Bechtelar and Raynor",Rijeka,10,10:45,22:55,
-779,Kiehn Group,Šibenik,21,11:37,21:30,
-780,Hermiston LLC,Osijek,25,11:40,23:06,
-781,Senger and Sons,Zagreb,19,9:01,21:58,
-782,Waelchi-Davis,Čakovec,12,11:56,21:27,
-783,"Bailey, Weber and Harber",Velika Gorica,11,9:24,23:03,
-784,Yost-Mayer,Šibenik,10,9:49,22:45,false
-785,Bashirian Inc,Velika Gorica,30,9:48,21:09,false
-786,Abshire-Muller,Đakovo,18,10:11,22:17,
-787,"Fritsch, Keebler and Denesik",Split,13,9:43,22:29,
-788,Corwin LLC,Đakovo,10,9:05,21:22,
-789,"Hand, Krajcik and Mraz",Dubrovnik,18,11:56,21:31,false
-790,Russel Inc,Zadar,12,11:28,23:09,
-791,Graham-Hintz,Rijeka,26,9:41,22:46,
-792,"Smith, Kovacek and DuBuque",Pula,21,11:49,23:05,
-793,"Leannon, Shields and Block",Osijek,18,9:55,23:58,
-794,Kling Inc,Slavonski Brod,23,11:13,22:00,
-795,Stiedemann and Sons,Sisak,27,10:33,21:26,
-796,Pagac and Sons,Split,25,9:25,23:06,
-797,Kautzer Group,Sisak,14,11:13,22:53,
-798,Borer-Greenholt,Osijek,10,9:53,22:25,false
-799,Crist-Douglas,Zagreb,22,9:33,23:58,
-800,"Crona, Christiansen and Grant",Varaždin,12,10:32,22:17,
-801,"McLaughlin, Mills and Rau",Bjelovar,15,10:43,23:55,
-802,DuBuque-Streich,Zagreb,11,10:21,23:31,
-803,Heaney LLC,Slavonski Brod,11,9:33,21:32,
-804,Keebler-Hamill,Sisak,10,9:19,21:42,
-805,Johns Group,Dubrovnik,18,10:33,21:39,
-806,Stracke LLC,Šibenik,30,11:20,21:44,
-807,Rutherford-Torp,Dubrovnik,10,9:26,21:05,
-808,Stark Group,Čakovec,13,11:00,22:27,
-809,Casper LLC,Zagreb,16,11:17,21:35,
-810,"Ortiz, Smith and Blanda",Požega,21,10:59,22:05,
-811,Jacobson-Donnelly,Rijeka,12,10:01,23:21,
-812,Hyatt-Keebler,Šibenik,12,11:21,23:11,
-813,Hahn LLC,Vinkovci,15,11:31,21:54,
-814,Parisian-Bergnaum,Vukovar,30,11:44,22:46,
-815,Reilly LLC,Karlovac,21,9:30,23:55,true
-816,Sanford-Hilll,Čakovec,16,10:19,22:09,
-817,Zieme-Toy,Rijeka,30,9:36,21:20,
-818,Hermiston-Jakubowski,Dubrovnik,13,9:45,23:02,
-819,Aufderhar LLC,Sisak,21,11:56,23:04,
-820,"Stanton, Sporer and Stokes",Požega,23,9:45,21:40,true
-821,Botsford and Sons,Vukovar,18,10:42,21:29,
-822,Rolfson Inc,Split,25,10:13,21:44,
-823,Bartoletti-O'Reilly,Vukovar,19,11:04,21:11,true
-824,Grimes and Sons,Vukovar,16,11:12,21:35,true
-825,Leffler-Gerhold,Varaždin,30,10:13,21:40,
-826,Davis and Sons,Koprivnica,14,10:21,21:53,false
-827,"O'Connell, Berge and Kilback",Karlovac,16,10:34,22:25,
-828,"Reinger, Graham and Lockman",Dubrovnik,15,11:17,21:45,
-829,Mitchell-Raynor,Požega,29,10:46,22:36,
-830,Gutkowski-Gleason,Šibenik,20,9:55,22:21,
-831,"Zulauf, Braun and Harber",Bjelovar,29,11:23,23:26,
-832,Konopelski and Sons,Zadar,27,10:17,21:40,false
-833,"Watsica, Bashirian and Vandervort",Rijeka,22,10:34,21:07,
-834,"Russel, West and Kub",Koprivnica,26,11:57,21:08,
-835,Nikolaus-DuBuque,Koprivnica,28,9:45,23:02,
-836,Lebsack LLC,Vinkovci,14,11:25,21:09,
-837,Bauch-Connelly,Rijeka,16,11:49,22:20,
-838,Mohr Inc,Sisak,29,9:09,23:04,
-839,Dach-Breitenberg,Split,18,11:33,23:13,
-840,"Borer, Fadel and Beier",Rijeka,13,11:15,21:58,false
-841,Morar LLC,Pula,19,11:28,22:37,
-842,"Barrows, Rodriguez and Farrell",Slavonski Brod,22,9:10,22:27,
-843,Renner-McKenzie,Požega,27,11:55,21:06,
-844,Reichel-Turcotte,Karlovac,12,11:21,21:51,
-845,Cormier-Streich,Čakovec,22,11:36,22:13,
-846,"Stanton, Heidenreich and Leuschke",Rijeka,30,10:45,22:26,
-847,Koelpin and Sons,Slavonski Brod,18,9:37,21:32,
-848,Walker-Considine,Bjelovar,16,10:11,23:09,
-849,"Bergnaum, Frami and Wisoky",Koprivnica,16,11:05,23:42,
-850,Bradtke and Sons,Velika Gorica,24,11:04,23:36,
-851,"Mayert, Reilly and Kemmer",Zagreb,18,10:23,22:00,
-852,Wintheiser and Sons,Dubrovnik,24,10:09,23:30,
-853,"Barton, Cruickshank and Batz",Koprivnica,12,11:01,23:42,
-854,Homenick and Sons,Đakovo,14,9:28,23:05,
-855,Kemmer-Baumbach,Đakovo,20,9:47,22:09,
-856,"Wilkinson, Littel and Crona",Zagreb,18,10:26,22:59,false
-857,"Pouros, Kris and Feeney",Rijeka,29,9:42,23:52,
-858,Bogan-McCullough,Vinkovci,12,10:25,21:19,
-859,Will LLC,Split,19,10:54,23:13,
-860,Hills and Sons,Šibenik,30,9:27,21:45,
-861,Hammes LLC,Zadar,15,9:58,23:13,true
-862,"Cremin, Kovacek and Anderson",Šibenik,18,10:07,21:40,
-863,DuBuque Group,Varaždin,21,10:03,21:38,
-864,Aufderhar LLC,Osijek,27,11:08,23:12,true
-865,Dare-Grant,Pula,20,9:31,22:43,true
-866,Monahan LLC,Varaždin,24,10:07,23:11,
-867,"Kris, Hauck and Mills",Čakovec,10,11:31,22:05,
-868,Toy-Hettinger,Karlovac,29,10:38,22:33,
-869,"Kemmer, Turcotte and Hartmann",Šibenik,26,9:05,23:31,true
-870,Torphy-Schamberger,Vinkovci,15,10:27,22:40,
-871,"Heidenreich, Kertzmann and Hirthe",Pula,26,10:25,21:19,
-872,McDermott Inc,Zagreb,11,11:27,21:05,
-873,Kutch-Baumbach,Vinkovci,18,9:36,21:42,true
-874,"Cartwright, Prosacco and Breitenberg",Sisak,11,9:32,22:08,true
-875,"Harvey, Bahringer and Collier",Varaždin,27,11:35,23:53,
-876,Schowalter and Sons,Koprivnica,12,11:24,22:55,
-877,Lindgren Inc,Rijeka,14,11:47,22:40,
-878,Treutel LLC,Karlovac,27,10:38,22:23,
-879,Zemlak Inc,Bjelovar,20,9:49,22:58,
-880,Tillman Group,Koprivnica,13,10:40,21:11,
-881,Quitzon-Powlowski,Varaždin,13,11:11,21:46,
-882,Rutherford-Tillman,Osijek,30,9:19,21:32,
-883,Haag LLC,Pula,21,10:45,21:20,
-884,VonRueden Inc,Split,27,11:15,21:47,
-885,"Sauer, Watsica and Casper",Zagreb,23,10:31,21:00,
-886,Kautzer Group,Osijek,17,11:28,23:55,
-887,Kshlerin Group,Đakovo,13,11:08,23:22,
-888,Senger-Bogan,Velika Gorica,22,10:21,21:42,
-889,Beahan LLC,Osijek,30,9:44,21:58,false
-890,"Price, Farrell and Leannon",Varaždin,10,10:25,23:56,
-891,Kihn-Schultz,Slavonski Brod,22,10:05,21:24,false
-892,Gusikowski Group,Velika Gorica,23,9:27,21:08,
-893,Stark Inc,Sisak,10,11:35,22:37,false
-894,Hauck and Sons,Slavonski Brod,17,9:03,22:35,
-895,Beahan-Balistreri,Karlovac,29,9:39,22:53,
-896,Hartmann-Murazik,Bjelovar,15,10:30,21:48,true
-897,Lind LLC,Šibenik,19,11:14,22:26,
-898,"Abbott, Kerluke and Mayer",Pula,28,9:20,21:26,
-899,Bergstrom-Conn,Vukovar,11,9:07,23:06,
-900,"Miller, Feeney and Hilll",Đakovo,15,11:09,22:45,
-901,Schmitt-Hickle,Osijek,11,9:55,22:48,
-902,Hintz and Sons,Sisak,15,9:45,21:02,
-903,Hartmann-Lang,Pula,10,10:03,22:27,true
-904,Terry LLC,Đakovo,15,10:23,23:00,true
-905,"Rau, Klein and Bogisich",Vinkovci,28,10:38,22:25,
-906,Rice Group,Rijeka,27,9:58,23:57,
-907,Lind-Hamill,Split,13,11:44,23:10,
-908,Collins-Sipes,Đakovo,11,9:28,21:28,
-909,"Padberg, Turcotte and Hettinger",Pula,10,11:11,22:44,
-910,Vandervort-Steuber,Pula,15,11:28,22:10,
-911,Tromp-Cummings,Dubrovnik,27,10:49,23:35,
-912,Gulgowski-Dietrich,Đakovo,23,10:15,21:45,
-913,O'Hara-Deckow,Sisak,23,11:09,23:34,
-914,Feeney-Glover,Slavonski Brod,21,10:26,23:38,
-915,Brekke-Corkery,Osijek,15,11:26,23:29,
-916,Feest-Jakubowski,Velika Gorica,10,10:18,21:11,
-917,"Rice, Swaniawski and Volkman",Varaždin,13,10:58,21:59,
-918,"Graham, Larson and Connelly",Rijeka,17,11:52,23:23,
-919,"Homenick, Lowe and Kris",Čakovec,30,11:23,23:31,
-920,Mueller and Sons,Pula,12,10:14,23:15,
-921,O'Connell Inc,Dubrovnik,21,9:28,21:18,
-922,"Langosh, Rosenbaum and Bogisich",Vinkovci,29,9:58,23:37,
-923,Mante Group,Slavonski Brod,22,10:18,21:19,false
-924,"Dicki, Lesch and Schmitt",Vinkovci,16,10:05,21:24,
-925,Stroman Group,Đakovo,21,11:38,22:07,false
-926,Schultz-Lueilwitz,Zadar,20,10:11,21:49,
-927,Harber Inc,Rijeka,25,10:37,22:55,
-928,Hickle-Herzog,Zagreb,23,11:13,22:40,
-929,Reinger Group,Split,18,11:21,23:21,
-930,Bailey-Reichert,Sisak,17,9:09,22:06,
-931,Gerlach Group,Šibenik,27,11:44,22:35,
-932,"Gusikowski, Mayert and McLaughlin",Velika Gorica,30,11:39,23:56,false
-933,Gutkowski-Crist,Sisak,13,10:40,21:32,
-934,Balistreri-Homenick,Split,14,11:11,23:46,
-935,"Russel, Klein and Hansen",Vinkovci,22,9:12,23:45,
-936,"Jerde, Reinger and Wisoky",Koprivnica,14,9:05,22:01,true
-937,"Hoppe, Renner and Klocko",Vinkovci,17,10:49,23:00,
-938,"Turcotte, Renner and Harvey",Požega,13,11:27,22:53,
-939,Ritchie-Koch,Slavonski Brod,26,9:19,23:41,
-940,Krajcik-Dooley,Bjelovar,29,11:23,23:50,
-941,"Schinner, Bahringer and Olson",Đakovo,10,10:27,21:33,
-942,"Rath, Lindgren and Balistreri",Slavonski Brod,13,11:32,21:29,false
-943,Johns LLC,Velika Gorica,14,11:49,21:11,
-944,Schmeler and Sons,Koprivnica,29,9:50,23:37,
-945,"Gleichner, Padberg and Durgan",Zagreb,20,10:45,23:18,
-946,Monahan and Sons,Split,17,9:57,21:44,
-947,Lueilwitz and Sons,Split,16,10:05,22:26,
-948,Hermann LLC,Rijeka,30,11:43,21:39,
-949,Corwin-Berge,Varaždin,14,9:11,22:12,
-950,Friesen LLC,Bjelovar,21,9:23,23:00,
-951,Nader-Goodwin,Čakovec,24,10:04,21:05,
-952,Becker-Paucek,Požega,13,10:19,23:57,
-953,Upton-Tillman,Slavonski Brod,16,9:09,23:47,
-954,"Harber, Oberbrunner and Koelpin",Rijeka,21,9:58,21:22,
-955,Paucek-Weissnat,Vinkovci,20,10:47,22:54,
-956,Rutherford LLC,Osijek,18,11:07,21:19,true
-957,Hane-Hoeger,Slavonski Brod,10,11:38,22:04,
-958,"Rogahn, Gibson and Huels",Zagreb,13,9:26,23:52,
-959,Fahey and Sons,Šibenik,12,10:21,22:09,false
-960,"McClure, Schmitt and Langosh",Vukovar,25,9:47,21:35,
-961,Kertzmann and Sons,Varaždin,16,11:08,21:03,
-962,"Leannon, Roberts and Nicolas",Velika Gorica,17,10:16,22:59,
-963,Reilly LLC,Bjelovar,28,9:20,22:00,
-964,Wilkinson-Cummings,Požega,16,9:58,21:17,
-965,Farrell-Medhurst,Slavonski Brod,24,9:41,23:25,true
-966,Aufderhar LLC,Velika Gorica,10,9:00,21:07,
-967,"Lemke, Wolff and Thiel",Koprivnica,25,10:00,21:45,
-968,Bauch-Casper,Dubrovnik,13,11:12,22:12,
-969,Langosh-Watsica,Rijeka,29,9:28,21:10,
-970,"Hauck, Baumbach and Koss",Zagreb,10,10:41,23:25,
-971,Block Group,Slavonski Brod,10,11:49,22:19,
-972,Champlin LLC,Šibenik,29,11:27,23:16,
-973,Kohler-Volkman,Dubrovnik,18,9:40,21:39,
-974,Abernathy-Wintheiser,Đakovo,26,11:24,23:11,
-975,DuBuque and Sons,Velika Gorica,19,11:37,21:11,
-976,"Robel, Lowe and Hamill",Šibenik,11,9:26,22:09,
-977,Spencer-Mertz,Pula,24,9:20,23:37,
-978,"Kilback, Gleichner and Cole",Varaždin,14,9:11,23:52,
-979,Bode Group,Zagreb,27,11:38,21:54,true
-980,Reichert-Denesik,Pula,24,9:02,22:35,
-981,Jacobi Inc,Koprivnica,24,10:08,22:58,
-982,Kozey Inc,Split,10,10:57,22:53,false
-983,Padberg-Leannon,Osijek,22,9:18,23:08,
-984,"Emard, Haley and Thiel",Varaždin,30,9:49,22:40,false
-985,D'Amore-Langworth,Dubrovnik,15,10:28,21:57,
-986,Reinger-Breitenberg,Đakovo,23,9:09,21:19,
-987,Kunze-Spencer,Velika Gorica,30,9:35,21:22,
-988,"Simonis, Robel and Franecki",Zagreb,23,9:18,21:42,
-989,Nikolaus and Sons,Zadar,11,11:53,23:29,
-990,Kuhic-Sawayn,Vinkovci,29,10:57,23:28,
-991,"Pollich, Okuneva and Hills",Koprivnica,28,9:39,22:23,
-992,"Grady, Koepp and Donnelly",Požega,27,9:34,22:06,
-993,McKenzie-Schneider,Pula,23,10:25,22:56,
-994,Lehner Group,Čakovec,13,10:06,22:52,
-995,Carroll Group,Bjelovar,25,10:37,23:48,
-996,Mayert-Cole,Vukovar,16,9:58,21:03,
-997,Ebert-Jakubowski,Vinkovci,18,11:52,21:43,
-998,"Schmidt, Senger and Veum",Koprivnica,30,10:43,21:53,
-999,Shanahan Inc,Čakovec,17,9:08,22:47,
-1000,Shanahan-Hamill,Požega,23,11:07,22:59,
+1,Pelegrini,Šibenik,28,10:44,23:42,true
+2,Restoran Fortuna,Sesvete,32,9:44,21:10,true
+3,Skladište,Zadar,27,10:37,23:44,true
+4,Markovina,Sisak,19,11:42,21:59,true
+5,Taverna Morski Duh,Koprivnica,12,11:52,21:06,true
+6,Kod Pere,Čakovec,34,9:16,22:38,true
+7,Bistro Trogir,Zadar,28,10:41,21:16,false
+8,Bistro Morski Duh,Sesvete,26,9:00,21:13,true
+9,Vela Luka,Sesvete,32,9:22,22:24,true
+10,Martinis Marchi,Koprivnica,30,9:02,23:24,true
+11,Galeb,Koprivnica,24,10:34,22:21,false
+12,Konoba Stara Vrata,Rijeka,15,11:35,21:56,true
+13,Restoran Dvor,Dubrovnik,22,9:46,23:42,true
+14,Pod Zidom,Zagreb,35,11:33,23:55,false
+15,Noel,Sisak,24,11:00,22:46,false
+16,Konoba Srđ,Dubrovnik,34,11:32,23:01,true
+17,Carpaccio,Varaždin,5,9:05,21:18,true
+18,Restoran Zlatni Zaljev,Koprivnica,11,10:06,21:52,true
+19,Kasar,Šibenik,11,9:10,21:38,true
+20,Mala Koliba,Samobor,6,11:38,21:15,true
+21,Mali Bar,Bjelovar,11,9:09,21:54,true
+22,Restoran Klana,Požega,29,9:39,22:23,true
+23,Plavi Podrum,Čakovec,21,10:45,23:53,true
+24,Restoran Zeleni Val,Vinkovci,8,10:49,22:07,true
+25,Bistro Tinel,Dubrovnik,30,9:32,21:30,true
+26,Konoba Slani Vjetar,Sesvete,8,10:47,23:11,true
+27,Konoba Turnić,Zadar,11,10:12,23:02,true
+28,Vela Luka,Varaždin,15,10:39,22:52,false
+29,Konoba Maestral,Čakovec,25,9:07,22:09,true
+30,Filippi,Vinkovci,23,10:46,22:19,false
+31,Konoba Skradinski Buk,Split,30,9:33,21:11,true
+32,Konoba Код Jože,Zagreb,11,9:18,23:29,true
+33,Restoran Plavi Izvor,Čakovec,35,10:14,21:43,true
+34,Bistro Tavulin,Koprivnica,28,11:35,22:40,true
+35,Crni Angus,Sisak,7,10:23,22:02,false
+36,Konoba Sveti Ante,Slavonski Brod,7,10:47,22:19,true
+37,Plavi Val,Rijeka,23,10:40,22:00,true
+38,Lanterna,Osijek,6,10:20,23:57,true
+39,Taverna Bura i More,Dubrovnik,18,11:43,22:52,true
+40,Ribarska Republika,Split,16,10:03,22:03,true
+41,Restoran Draga,Koprivnica,34,10:18,23:40,true
+42,Konoba Daniela,Osijek,12,11:34,23:06,true
+43,Zvonik,Šibenik,11,9:34,21:23,true
+44,Restoran Stella Maris,Karlovac,25,10:52,23:23,false
+45,Pojoda,Čakovec,32,10:04,22:14,true
+46,Podrum,Šibenik,20,10:05,23:03,true
+47,Restoran Kalelarga,Dubrovnik,8,10:43,21:10,true
+48,The Joint,Šibenik,20,11:37,21:40,true
+49,Konoba Sunčana Uvala,Sisak,32,11:35,23:49,true
+50,Konoba Zlatni Kamen,Dubrovnik,7,10:59,22:24,true
+51,Bistro Vrboska,Sisak,29,10:34,22:39,true
+52,Zadnji trem,Bjelovar,5,9:23,22:20,true
+53,Adio Mare,Zagreb,14,9:08,23:20,true
+54,Kasar,Čakovec,18,11:12,21:22,true
+55,Plavi Val,Vukovar,11,10:56,23:48,true
+56,Kapetanov sto,Sisak,17,11:53,21:10,false
+57,Bistro No.4,Rijeka,15,11:24,22:24,true
+58,Konoba Župa,Vukovar,7,9:26,22:27,true
+59,Konoba Piccolo,Varaždin,35,9:09,22:04,true
+60,Konoba Astarea,Bjelovar,19,11:24,21:55,true
+61,The House of Food,Vukovar,17,10:53,21:47,true
+62,TheShack,Požega,9,11:27,21:13,false
+63,Opatija,Vinkovci,9,11:50,23:40,true
+64,The Brick Peć,Vukovar,18,10:04,23:09,true
+65,Konoba Lopud,Karlovac,26,10:38,21:47,true
+66,Bistro Vodice,Split,14,9:21,21:52,true
+67,Konoba Srđ,Koprivnica,11,11:08,22:03,true
+68,Marenda,Osijek,16,11:34,21:29,true
+69,Konoba Mornar,Sisak,15,10:32,22:58,false
+70,Zadnji trem,Split,29,9:13,23:20,true
+71,Bistro Lokrum,Požega,19,10:01,23:17,true
+72,Konoba Babin Kuk,Vinkovci,7,11:44,23:18,true
+73,Restoran Kalelarga,Rijeka,5,9:06,22:29,true
+74,Bistro Školjka,Šibenik,21,9:22,22:16,true
+75,Konoba Zlatni Kamen,Zagreb,26,9:10,22:38,true
+76,Nautika,Sesvete,26,11:52,21:24,true
+77,Kuca za brodove,Dubrovnik,20,10:51,21:29,false
+78,Restoran Otočna Čarolija,Sisak,33,10:58,22:51,true
+79,Konoba Tisno,Sesvete,8,10:48,22:36,true
+80,Paradigmas,Zadar,33,11:51,21:31,false
+81,Bistro Trogir,Vinkovci,31,10:55,23:31,true
+82,Argola,Bjelovar,6,11:25,22:11,true
+83,Crna ovca,Vinkovci,25,9:14,22:48,true
+84,Bistro Zeleni Val,Sisak,32,11:31,21:44,true
+85,Arcadia,Šibenik,35,10:08,21:16,true
+86,Bistro Vodice,Vukovar,5,9:46,22:34,true
+87,Amfora,Koprivnica,26,10:35,21:10,true
+88,Restoran Miris Juga,Split,7,10:46,21:45,true
+89,Bistro Morski Zrak,Sesvete,26,11:44,21:06,true
+90,Gostionica Istranka,Vukovar,11,10:42,22:11,true
+91,Restoran Jezera,Varaždin,15,11:27,21:19,true
+92,Nava,Sesvete,10,11:31,22:24,false
+93,Stara Klet,Vinkovci,33,9:22,22:51,true
+94,Restoran Krapanj,Vukovar,26,10:39,22:49,false
+95,Taverna Sunčana Staza,Vukovar,21,10:55,21:43,true
+96,Boba,Koprivnica,23,9:19,22:39,true
+97,NAV,Čakovec,27,11:51,22:04,true
+98,Pantarul,Sisak,10,9:46,23:09,true
+99,Konoba Humac,Sisak,23,11:08,21:33,false
+100,Škver,Dubrovnik,32,10:24,22:58,true
+101,Pantarul,Požega,10,11:47,23:24,true
+102,Toč,Karlovac,27,10:41,22:18,true
+103,Konoba Feral,Šibenik,23,9:45,21:47,false
+104,Konoba Tribunj,Rijeka,9,11:00,22:10,true
+105,Bistro Miris Juga,Split,35,11:04,22:01,true
+106,Gostionica Šipan,Osijek,13,9:13,21:44,true
+107,Foša,Bjelovar,17,11:52,21:17,false
+108,Pod Zidom,Dubrovnik,11,10:13,22:43,true
+109,Konoba Župa,Split,11,11:12,23:41,false
+110,TheShack,Zadar,12,10:38,23:22,true
+111,Konoba Zlatni Pjat,Varaždin,12,11:06,23:48,true
+112,Konoba Humac,Dubrovnik,17,10:36,21:53,true
+113,Lešić Dimitri,Požega,33,10:30,21:39,false
+114,Restoran Sunčana Plaža,Vinkovci,11,9:05,23:04,true
+115,Konoba Slani Pjat,Sisak,20,9:02,22:49,true
+116,Konoba Slani Val,Vinkovci,22,10:57,21:37,true
+117,Vela Luka,Split,15,10:08,21:15,true
+118,Taverna Jadranska Oaza,Karlovac,27,10:28,22:40,true
+119,Konoba Код Jože,Split,23,9:42,22:50,true
+120,Restaurant Dubrava,Zadar,9,9:44,22:19,false
+121,Konoba Primošten,Sesvete,33,11:08,23:56,true
+122,Vinodol,Zadar,9,11:41,21:25,false
+123,Restoran Otočna Čarolija,Rijeka,35,10:50,23:35,false
+124,Rozario,Čakovec,6,11:46,21:09,true
+125,Konoba Pece,Zagreb,14,9:42,21:54,false
+126,Pojoda,Split,8,11:29,23:54,true
+127,Kornatiii,Požega,18,10:30,21:02,true
+128,Pašike,Rijeka,9,10:14,22:19,true
+129,Bistro Sunčana Plaža,Čakovec,10,11:58,22:59,true
+130,Restoran Morska,Čakovec,31,11:35,21:32,false
+131,Markovina,Zadar,16,10:57,23:14,true
+132,Foša,Varaždin,24,9:39,23:43,true
+133,Bistro Vjetrovi Jadrana,Pula,16,9:38,21:53,true
+134,Taverna Ljetni Vjetar,Zadar,31,9:23,21:39,true
+135,Kornat,Pula,13,10:38,21:49,true
+136,Taverna Plavi Val,Pula,28,10:36,22:00,true
+137,Bistro Viškovo,Požega,30,10:15,22:29,true
+138,Konoba Sveti Ante,Čakovec,33,10:08,22:26,true
+139,Restoran Sunčana Plaža,Pula,9,9:38,23:43,false
+140,Dalmatinska Konoba,Split,29,10:16,23:45,true
+141,Bistro Zlatni Pjat,Split,19,9:57,23:00,true
+142,Konoba Ljetni San,Zadar,6,10:39,22:43,true
+143,Pergola,Čakovec,31,11:20,23:38,false
+144,Konoba Vrhunski Okusi,Zagreb,7,10:13,21:11,true
+145,Konoba Jelsa,Koprivnica,20,11:33,23:03,false
+146,Konoba Kaprije,Zagreb,19,10:40,23:22,true
+147,Oaza,Koprivnica,11,10:19,21:11,true
+148,Pašike,Varaždin,32,10:27,22:32,true
+149,Restaurant Bonavita,Varaždin,23,10:48,21:23,true
+150,Konoba Mendula,Osijek,17,10:06,21:40,true
+151,The Catch,Karlovac,20,10:06,22:13,false
+152,Kornat,Čakovec,10,10:11,21:15,true
+153,The Boundary,Zagreb,10,10:27,22:49,true
+154,Lovor,Slavonski Brod,28,11:48,22:08,true
+155,The Wing House,Varaždin,18,10:51,23:44,true
+156,The House of Food,Zagreb,12,10:14,21:03,true
+157,Kopun,Samobor,18,11:58,21:00,true
+158,Logorska vatra,Zadar,9,11:45,22:41,false
+159,Mali Bar,Bjelovar,18,10:07,22:33,true
+160,Konoba Sidro,Zagreb,23,11:28,22:57,true
+161,Vinica Monković,Šibenik,5,11:33,21:43,true
+162,Konoba Miris Juga,Šibenik,5,9:03,21:36,true
+163,Restoran Fortuna,Dubrovnik,21,9:04,23:16,true
+164,Kuhinja,Split,13,11:45,23:20,true
+165,Pod Zidom,Bjelovar,21,9:10,23:29,true
+166,Paradigmas,Zagreb,26,10:14,22:24,true
+167,The Cafe Terrace,Samobor,11,9:51,22:38,false
+168,Restoran Morska Oda,Šibenik,21,11:33,23:50,true
+169,Restoran Morska Oda,Šibenik,15,10:15,23:47,true
+170,Restoran Podmurvice,Slavonski Brod,12,11:08,23:17,true
+171,Bistro Trogir,Karlovac,20,11:38,22:30,true
+172,Bistro Morska Rapsodija,Osijek,22,10:25,23:00,true
+173,Taverna Jadranska Oaza,Vukovar,19,11:39,23:15,false
+174,Restoran Kornati,Sesvete,9,11:08,22:06,true
+175,Konoba Župa,Šibenik,34,9:06,21:39,false
+176,Konoba Nikola,Dubrovnik,7,9:52,21:38,true
+177,Boškinac,Pula,9,10:37,22:46,true
+178,Zvonik,Vinkovci,35,9:26,23:57,true
+179,Amfora,Bjelovar,10,11:16,21:34,true
+180,Konoba Primošten,Rijeka,18,9:56,23:28,false
+181,Konoba Zlatni Kamen,Samobor,14,10:23,21:47,true
+182,Artesian,Split,22,11:20,23:39,false
+183,Restoran Pelegrin,Osijek,23,9:29,22:38,false
+184,Konoba Levant,Sisak,30,11:28,22:46,true
+185,Zigante,Sesvete,10,11:23,22:11,true
+186,Gostionica Zagreb,Zagreb,25,10:01,22:13,true
+187,Restoran Plavi Talisman,Pula,34,10:13,22:14,true
+188,Bistro Sustjepan,Koprivnica,31,11:40,21:14,true
+189,Lanterna,Vinkovci,18,10:08,21:39,true
+190,Pod Mostom,Zadar,27,11:06,21:17,true
+191,Bistro Morski Ples,Koprivnica,5,11:08,22:26,true
+192,Taverna Ljetni Vjetar,Šibenik,14,11:52,21:34,true
+193,Restoran Jezera,Zadar,16,11:27,22:41,false
+194,Paradigma,Zagreb,7,10:01,22:27,true
+195,Konoba Menego,Zagreb,20,10:14,23:21,false
+196,Triton,Samobor,11,10:47,21:48,false
+197,The Wing House,Rijeka,25,11:48,23:30,true
+198,Konoba Turnić,Rijeka,35,10:36,21:03,true
+199,Konoba Skojera,Šibenik,8,11:12,23:28,false
+200,Zadnji trem,Pula,24,9:51,21:41,false
+201,Konoba Orašac,Osijek,7,11:40,21:30,true
+202,Restoran Tirkizno More,Šibenik,16,10:27,22:56,true
+203,Konoba Levant,Sesvete,20,10:42,21:47,true
+204,Tinel,Vinkovci,12,9:09,23:42,true
+205,Stara Klet,Varaždin,26,11:25,22:10,false
+206,Restoran Marčeljeva Draga,Koprivnica,8,9:53,23:55,true
+207,Bistro Tinel,Pula,20,10:05,23:56,true
+208,Korčula,Dubrovnik,31,10:00,21:38,true
+209,Adio Mare,Dubrovnik,34,9:17,21:16,true
+210,The Cafe Terrace,Osijek,19,10:10,21:52,true
+211,Konoba Marinero,Šibenik,27,9:07,22:52,true
+212,Restoran Zeleni Otok,Pula,21,10:13,22:38,false
+213,Bistro Tavulin,Karlovac,30,9:28,23:54,true
+214,Taverna Morski Duh,Varaždin,22,11:31,23:11,true
+215,Restoran Vjetrovi Juga,Vukovar,17,10:14,22:06,true
+216,Restoran Morska Oda,Zadar,12,11:41,21:46,false
+217,Restoran Jadranska Čarolija,Vukovar,16,10:24,21:40,true
+218,Konoba Arsenalka,Karlovac,28,10:46,21:53,true
+219,Gostionica Dalmacija,Sisak,21,9:47,21:53,true
+220,Marina,Dubrovnik,9,9:15,21:05,true
+221,Bistro Plavi Zrak,Osijek,23,9:37,23:30,true
+222,The Avenue,Zagreb,28,9:45,23:22,true
+223,Konoba Stara Ploča,Zadar,24,11:26,21:16,true
+224,Restoran Stari Grad,Bjelovar,34,10:14,21:58,true
+225,Stara Klet,Šibenik,30,9:22,22:23,true
+226,Konoba Trsat,Požega,5,9:37,21:07,true
+227,Restoran Plavi Talisman,Sesvete,10,10:06,22:06,true
+228,Konoba Saršoni,Bjelovar,21,11:34,22:55,false
+229,Restoran Cres,Osijek,28,9:37,21:39,true
+230,Taverna Morska Melodija,Osijek,26,10:29,22:23,true
+231,The Joint,Dubrovnik,31,10:38,23:40,false
+232,Škampi,Sesvete,9,9:15,22:17,true
+233,Restoran Stella Maris,Sesvete,6,10:18,22:38,false
+234,Restoran Ribarska Priča,Zadar,32,9:08,21:33,true
+235,Takenoko,Osijek,21,10:33,22:13,true
+236,Roost,Zadar,18,9:33,21:03,true
+237,Konoba Bulevard,Šibenik,17,9:19,22:00,true
+238,Konoba Kaleta,Bjelovar,15,9:24,23:56,false
+239,Kadena,Split,15,9:35,22:23,true
+240,Konoba Mediterraneo,Zadar,13,11:25,21:21,true
+241,The Brisket House,Samobor,30,11:50,21:12,false
+242,Konoba Zlatna Obala,Vinkovci,18,11:10,22:09,true
+243,NAV,Slavonski Brod,24,11:21,21:01,true
+244,Toč,Samobor,32,11:53,23:02,false
+245,Bistro Morski Ugođaj,Karlovac,13,9:08,21:20,true
+246,Konoba Hvar,Varaždin,11,9:51,23:43,true
+247,Stari Fijaker,Dubrovnik,32,11:17,21:15,true
+248,Konoba Astarea,Dubrovnik,28,9:14,22:14,true
+249,Konoba Zablaće,Bjelovar,25,9:25,23:11,true
+250,spot,Vukovar,16,9:35,21:34,true
+251,Okrugljak,Rijeka,30,11:37,23:59,false
+252,Bistro Otočna Čarolija,Bjelovar,35,11:23,22:28,true
+253,Restoran Miris Mediterana,Dubrovnik,20,9:23,23:06,true
+254,Bistro Sunčev Zrak,Požega,26,11:13,23:23,true
+255,Orca,Vukovar,13,11:25,22:25,true
+256,Restoran Koločep,Rijeka,17,11:05,21:27,true
+257,The 6th Street Grill,Dubrovnik,17,10:49,21:57,false
+258,Villa Neretva,Samobor,10,9:17,23:09,true
+259,Konoba Nava,Rijeka,15,10:27,21:42,true
+260,Stara Loza,Karlovac,9,11:37,22:50,true
+261,Oaza,Osijek,14,10:07,21:31,true
+262,Logorska vatra,Čakovec,11,9:04,21:30,true
+263,Bistro Morski Duh,Osijek,33,9:24,21:02,false
+264,Bistro Val,Zagreb,11,11:55,21:04,false
+265,Filippi,Šibenik,11,9:12,21:26,true
+266,Bistro Morski San,Karlovac,11,11:22,23:00,true
+267,Konoba Kod Joze,Osijek,9,9:35,23:38,true
+268,Restoran Jadranska Čarolija,Dubrovnik,17,11:34,22:58,false
+269,The Buffet,Vukovar,29,10:50,21:18,true
+270,Toč,Požega,9,11:43,23:05,true
+271,Konoba Buffet Fife,Samobor,12,9:07,22:55,true
+272,Ziganto,Pula,10,9:57,21:40,true
+273,Apetit City,Vukovar,12,11:09,23:07,true
+274,Restoran Zlatni Otok,Zadar,12,9:18,22:44,true
+275,Konoba Zamet,Čakovec,10,11:38,21:19,true
+276,Bistro Drenova,Pula,7,10:22,23:15,true
+277,Bistro Sušak,Varaždin,23,10:10,22:35,false
+278,Podrum,Bjelovar,32,9:52,21:01,false
+279,Konoba Skradinski Buk,Osijek,29,11:33,21:04,false
+280,Konoba Lozica,Sisak,28,11:31,21:05,false
+281,Taverna Kamen i More,Zadar,8,11:28,21:30,false
+282,Stara Klet,Sisak,14,10:56,21:01,true
+283,Taverna Riva,Zagreb,30,11:46,22:54,true
+284,Taverna Ljetni Vjetar,Samobor,16,10:35,21:12,true
+285,Laganini,Šibenik,5,11:35,22:12,true
+286,Sv. Nikola,Sisak,26,9:36,21:44,true
+287,Bistro Prvić,Čakovec,33,9:29,21:33,true
+288,Paradigmas,Šibenik,9,10:30,23:36,true
+289,Konoba Zamet,Osijek,26,11:07,22:50,true
+290,Konoba Orašac,Dubrovnik,8,9:14,21:14,true
+291,Konoba Feral,Pula,13,10:46,23:12,false
+292,Bistro Val,Varaždin,14,10:30,21:25,true
+293,Konoba Kaprije,Split,20,11:30,21:48,false
+294,Konoba Sunčana Uvala,Vukovar,17,11:00,22:53,true
+295,Konoba Ljetni Vjetar,Split,19,11:58,23:39,true
+296,Restoran Morski Vrh,Osijek,11,11:27,21:34,true
+297,Restoran Dvor,Varaždin,31,10:21,21:19,true
+298,Restoran Plavo Vrilo,Pula,31,11:06,22:41,false
+299,Restoran Sunčana Plaža,Zadar,15,10:49,21:19,false
+300,Restoran Zablace,Požega,17,10:20,21:10,true
+301,Bistro Morski San,Sesvete,32,10:05,21:30,true
+302,Konoba Ljetni Vjetar,Split,6,9:59,23:29,true
+303,Zinfandel,Osijek,26,10:53,23:09,false
+304,Konoba Zaton,Slavonski Brod,19,9:10,21:03,true
+305,Restoran Jadranska Tajna,Zagreb,13,10:26,23:45,true
+306,spot,Dubrovnik,5,9:07,21:20,true
+307,Konoba Rijeka,Vukovar,18,11:46,22:21,true
+308,Bistro na Mainu,Split,15,9:54,23:11,true
+309,Konoba Didov San,Vinkovci,21,9:33,22:45,false
+310,Crna ovca,Pula,16,10:59,22:27,false
+311,Konoba Elafiti,Varaždin,13,10:37,21:55,false
+312,Dalmacija,Šibenik,7,10:31,23:09,true
+313,Bistro Tač,Samobor,27,11:40,22:42,true
+314,Konoba Primošten,Rijeka,20,9:14,21:48,true
+315,Konoba Morski Ples,Bjelovar,14,9:49,21:23,true
+316,Škampi,Zagreb,5,11:31,22:59,true
+317,Restoran Sunčana Plaža,Split,29,11:14,22:23,true
+318,Pergola,Sisak,18,10:13,23:56,true
+319,Bistro Morski Ugođaj,Osijek,31,9:10,21:17,false
+320,Taverna Morska Melodija,Rijeka,28,10:29,22:22,true
+321,Konoba Pod Zvonikom,Vinkovci,6,9:29,23:07,true
+322,Foša,Varaždin,6,10:23,22:57,true
+323,Triton,Karlovac,15,9:46,21:11,true
+324,Foša,Bjelovar,5,11:14,22:26,true
+325,Restoran Sredozemna Priča,Zadar,11,10:34,21:14,true
+326,Bistro Makarska,Vinkovci,22,10:53,21:09,false
+327,Bistro Otočka Priča,Koprivnica,7,9:42,22:29,true
+328,Bistro Lokrum,Zadar,29,9:09,21:07,true
+329,Bistro Sunčev Zrak,Sesvete,19,11:50,22:39,true
+330,Logorska vatra,Karlovac,21,11:56,21:25,true
+331,Taverna Morski Duh,Pula,32,9:09,21:52,true
+332,Bistro Val,Sesvete,31,9:08,23:53,false
+333,Riblja Kuća,Split,22,11:02,23:45,true
+334,Konoba Astarea,Požega,32,9:12,22:29,true
+335,Konoba Humac,Bjelovar,28,10:47,21:21,true
+336,Restoran Žirje,Sisak,30,10:43,22:01,true
+337,Zlatna Ribica,Karlovac,13,10:36,22:57,true
+338,Marina,Vinkovci,33,9:42,21:33,true
+339,Gariful,Bjelovar,8,11:32,23:47,false
+340,Restoran Plavi Pojas,Zadar,26,9:42,22:42,true
+341,Puntulina,Vinkovci,20,10:03,21:05,true
+342,Restoran Jadranska Tajna,Čakovec,30,11:49,23:08,true
+343,Bistro Brodarica,Koprivnica,15,11:07,23:54,true
+344,Taverna Rustica,Osijek,25,10:33,22:26,true
+345,Markovina,Rijeka,20,9:37,22:18,true
+346,Batelina,Split,12,9:06,23:24,true
+347,Stara Loza,Rijeka,30,9:21,21:57,true
+348,Konoba Ljetni San,Vinkovci,28,11:54,23:06,false
+349,Sv. Nikola,Zadar,19,9:46,21:41,true
+350,Restoran Jadran,Čakovec,32,10:57,22:41,true
+351,Boba,Split,22,9:19,23:57,true
+352,Konoba Maslina,Čakovec,15,9:39,23:17,true
+353,Restoran Mokošica,Dubrovnik,12,11:08,22:09,true
+354,Tinel,Bjelovar,20,9:33,21:08,true
+355,Konoba Donja Vežica,Zadar,21,11:37,23:27,true
+356,Konoba Jadranska Pjena,Rijeka,21,10:07,22:57,true
+357,Konoba Jadransko Blago,Rijeka,32,10:22,22:01,true
+358,Konoba Zlarin,Rijeka,8,9:40,22:45,true
+359,Brončane Školjke,Rijeka,25,10:21,21:56,true
+360,Konoba More,Dubrovnik,33,11:28,22:12,true
+361,Kod Pere,Zadar,34,9:01,22:37,false
+362,Restoran Stari Grad,Vinkovci,29,9:44,22:41,true
+363,Konoba Šumoviti Put,Vinkovci,23,9:53,21:53,true
+364,Mala Hiža,Vinkovci,25,9:23,22:10,true
+365,Špageterija Dubrovnik,Čakovec,6,9:58,21:37,true
+366,Bistro Komolac,Karlovac,13,10:05,22:44,true
+367,Konoba Donja Vežica,Rijeka,35,10:58,22:54,true
+368,Villa Neretva,Zadar,34,10:55,23:48,true
+369,Rozario,Koprivnica,15,11:17,23:27,true
+370,Pod Voltom,Samobor,31,10:19,22:22,true
+371,Konoba Zlatna Obala,Karlovac,21,10:13,21:07,true
+372,Taverna Tajna Uvale,Sisak,33,10:10,21:10,true
+373,Bistro Sredozemna Oaza,Zagreb,29,11:08,22:05,false
+374,Konoba Bonaca,Bjelovar,13,10:16,23:16,true
+375,Bistro Plavi Cvrčak,Samobor,24,9:21,21:55,true
+376,Taverna Plavi Zaljev,Bjelovar,6,10:27,23:30,true
+377,Bistro More i Vino,Pula,8,9:45,23:44,false
+378,Bistro Jadranska Rapsodija,Pula,29,11:54,22:55,true
+379,Bokeria,Šibenik,33,11:13,22:24,true
+380,Restoran Morska Melodija,Bjelovar,19,10:02,23:03,false
+381,Konoba Slani Pjat,Dubrovnik,8,11:51,21:36,true
+382,Boba,Požega,27,11:51,22:47,true
+383,Restoran Zeleni Otok,Osijek,16,10:56,22:47,true
+384,Konoba Mljet,Karlovac,33,9:35,21:11,true
+385,Taverna Tajna Uvale,Zagreb,22,11:32,21:02,true
+386,Villa Spiza,Zadar,10,11:44,22:41,true
+387,Konoba Ljetni Vjetar,Zadar,13,11:08,22:40,true
+388,Bistro Sušak,Osijek,32,10:56,22:57,true
+389,Zlatna Ribica,Sisak,28,11:45,21:51,true
+390,Danitz,Sesvete,26,10:38,21:42,true
+391,Restoran Zeleni Otok,Osijek,25,9:53,23:10,true
+392,Zlatne Školjke,Zagreb,25,10:59,22:08,true
+393,Konoba Maslina,Vinkovci,19,10:33,21:13,true
+394,Gostionica Split,Čakovec,16,9:57,22:15,true
+395,Ziganto,Čakovec,27,9:21,22:45,true
+396,Noel,Koprivnica,32,11:31,23:22,true
+397,Skladište,Zagreb,6,9:39,23:06,false
+398,Lungo Mare,Zadar,5,10:53,22:32,true
+399,Tribunal,Vukovar,13,11:24,22:42,false
+400,Restoran Korčula,Čakovec,11,11:22,21:29,true
+401,Restoran Plavi Talisman,Slavonski Brod,18,9:33,23:35,true
+402,Konoba Dalmatino,Rijeka,6,10:51,21:46,false
+403,Taverna Plavi Zaljev,Požega,11,9:38,23:07,true
+404,Lovor,Vukovar,27,9:38,21:17,true
+405,Konoba Pod Zvonikom,Bjelovar,18,11:42,23:56,true
+406,Vino Monković,Čakovec,17,11:44,21:49,false
+407,Bistro Drenova,Bjelovar,35,10:43,22:53,true
+408,Restoran Bevanda,Požega,25,9:45,21:32,true
+409,Kuhinja,Vukovar,21,11:33,21:18,true
+410,Kotlić,Samobor,32,11:17,21:01,true
+411,Bistro,Sesvete,16,9:53,22:28,true
+412,Bistro na Mainu,Split,34,9:45,21:38,false
+413,Konoba Plavi Zaljev,Varaždin,30,11:24,23:55,false
+414,Galija,Koprivnica,8,10:02,21:39,true
+415,Kornat,Osijek,9,10:25,21:11,true
+416,Bistro Apetit by Marin Rendić,Varaždin,19,11:05,23:01,true
+417,Kadenac,Split,26,11:11,21:02,true
+418,Konoba Lopud,Rijeka,6,9:47,23:31,true
+419,Crni Angus,Šibenik,9,11:35,21:53,false
+420,Kafana,Sisak,13,9:10,22:18,true
+421,Paradigmas,Vukovar,22,9:51,22:43,true
+422,Villa Spiza,Vinkovci,25,10:07,21:29,true
+423,Argola,Požega,16,11:46,22:04,true
+424,Bistro Pirovac,Čakovec,9,11:08,23:53,true
+425,Restoran Kastel,Čakovec,9,10:19,21:40,true
+426,Gostionica Zagreb,Varaždin,21,11:30,21:39,true
+427,Bistro Vjetrovito,Split,33,9:38,22:53,true
+428,Nautika,Požega,9,9:25,21:04,true
+429,Markovina,Split,25,9:12,23:37,true
+430,Bistro Sunčana Plaža,Split,35,11:13,22:11,true
+431,Konoba Hvar,Vinkovci,5,11:27,21:39,true
+432,Taverna Jadranski Duh,Požega,8,10:40,23:41,true
+433,Konoba Sreća na Tanju,Požega,28,10:46,22:41,false
+434,Konoba Srima,Zadar,23,9:28,23:04,true
+435,Konoba Saršoni,Sisak,12,10:00,22:30,true
+436,The Butcher Block,Vinkovci,30,10:06,21:51,true
+437,Konoba Turnić,Šibenik,22,11:23,21:15,true
+438,Restaurant Dubrava,Dubrovnik,22,11:34,22:36,true
+439,Mala Hiža,Osijek,15,10:19,23:47,true
+440,Bistro No.4,Koprivnica,35,9:15,23:33,false
+441,Bistro Pirovac,Vinkovci,11,11:20,23:41,true
+442,Bistro Trsteno,Vinkovci,25,11:00,23:29,true
+443,Taverna Tajna Uvale,Samobor,7,10:05,22:24,true
+444,Orsan,Čakovec,16,11:15,23:20,true
+445,Bistro Rastočine,Vinkovci,31,10:53,21:19,true
+446,Bistro Morski Ples,Rijeka,13,11:48,21:43,true
+447,Zlatne Školjke,Šibenik,32,10:26,21:54,false
+448,Artesian,Sisak,13,10:16,21:02,true
+449,Crna ovca,Zagreb,14,11:47,23:26,true
+450,Taverna Miris Mediterana,Vinkovci,8,10:06,22:13,true
+451,The Beachcomber,Bjelovar,20,9:33,23:03,true
+452,Amfora,Čakovec,10,9:51,22:56,true
+453,Ziganto,Šibenik,6,10:57,22:59,true
+454,Gradska Kavana,Čakovec,13,10:24,21:33,false
+455,Bistro Sol,Osijek,5,10:53,21:58,true
+456,Restoran Tirkizno More,Sesvete,24,10:11,22:19,false
+457,Lovor,Samobor,15,10:27,23:29,false
+458,Bistro Jadranski San,Bjelovar,23,9:31,22:11,true
+459,Taverna Suncokret,Sisak,17,10:11,23:28,false
+460,Konoba Matejuška,Bjelovar,18,11:40,23:06,true
+461,Konoba Murter,Dubrovnik,7,10:19,23:43,true
+462,Bistro Krnjevo,Samobor,23,9:40,22:26,true
+463,Restoran Galija,Dubrovnik,14,10:57,21:11,true
+464,Taverna Jadranska Oaza,Slavonski Brod,19,11:05,22:03,false
+465,Konoba Pece,Rijeka,16,11:37,21:46,true
+466,Konoba Slani Pjat,Koprivnica,24,11:17,23:36,true
+467,Restoran Stari Grad,Split,32,11:26,21:52,true
+468,Boba,Sesvete,20,10:23,22:20,true
+469,Konoba Stara Kala,Samobor,8,11:06,22:11,true
+470,Bokeria,Zadar,8,10:07,23:06,true
+471,Adio Mare,Split,24,11:26,22:44,true
+472,Bistro Plavi Horizont,Koprivnica,12,11:58,21:04,true
+473,Taverna Rustica,Split,30,10:49,23:54,false
+474,Konoba Bonaca,Pula,14,10:57,21:50,true
+475,Dalmacija,Čakovec,31,11:44,21:15,false
+476,Orca,Samobor,17,11:45,21:19,true
+477,Zinfandel's,Rijeka,26,10:35,23:29,false
+478,Riblja Kućica,Split,8,11:19,23:51,true
+479,Konoba Trs,Šibenik,22,9:11,22:13,true
+480,Konoba Jelsa,Dubrovnik,35,10:25,22:28,true
+481,Konoba Rijeka,Sesvete,12,11:18,23:31,false
+482,Taverna Vjetrovi Juga,Karlovac,7,9:29,21:45,true
+483,Taverna Slani Val,Sesvete,22,10:38,21:09,true
+484,Konoba Hvar,Osijek,28,9:46,22:31,false
+485,Kuća na plaži,Sisak,17,11:26,22:57,true
+486,Konoba Sidro,Rijeka,12,11:41,23:47,false
+487,Vincek,Pula,32,9:54,21:07,false
+488,Kafana,Čakovec,18,10:06,23:11,true
+489,Plavi Marlin,Sisak,34,9:14,23:46,true
+490,Kopun,Čakovec,9,9:01,22:19,true
+491,Perivoj,Čakovec,31,10:31,22:39,true
+492,Restoran Sredozemna Priča,Požega,35,10:55,23:01,true
+493,Podrum,Dubrovnik,25,10:44,23:52,false
+494,Konoba Donja Vežica,Dubrovnik,34,11:03,21:45,true
+495,Konoba Pece,Sesvete,8,9:12,23:34,false
+496,Lungo Mare,Varaždin,30,11:15,22:16,true
+497,Bistro Krnjevo,Sesvete,7,9:42,22:52,true
+498,Mala Koliba,Zagreb,22,10:36,22:32,true
+499,Konoba Varoški,Dubrovnik,16,10:01,21:40,false
+500,Konoba Betina,Zadar,17,10:26,22:57,false
